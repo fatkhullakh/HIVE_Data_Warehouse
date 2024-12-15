@@ -1,0 +1,921 @@
+WorkerID,NameAndSurname,Gender,PESEL,JobTitle,RatingsOfWorkerCategory,isCurrent
+1,Matthew Banks,Male,00013426264,Counselor,Fair,True
+2,Debra Martin,Male,00185320008,Personal Trainer,Great,True
+3,Christopher Chandler,Male,00200627833,Personal Trainer,Fair,True
+4,Charles Boyle,Male,00228378419,Dentist,Fair,True
+5,Christopher White,Male,00295458252,Therapist,Good,True
+6,Ariana Harrison,Male,00356328338,Counselor,Good,True
+7,Scott Robinson,Female,00563804294,Counselor,Good,True
+8,Jason Shelton,Male,00628028084,Personal Trainer,Awesome,True
+9,Erin Thomas,Male,00633263970,Tutor,Great,True
+10,Craig Liu,Male,00825869277,Beautician,Fair,True
+11,Gary Bush,Female,00904210665,Cleaner,Fair,True
+12,Daniel Torres,Male,01315123446,Aesthetician,Great,True
+13,Rodney Flores,Female,01442835683,Tutor,Good,True
+14,Sean Andrews,Male,01481113275,Aesthetician,Great,True
+15,Peggy Thompson,Male,01549393245,Therapist,Good,True
+16,Mark Garcia,Male,01614084051,Beautician,Good,True
+17,Donald Watts,Female,01827746361,Beautician,Great,True
+18,Douglas Boyd,Female,01919992435,Therapist,Awesome,True
+19,Jose Cox,Female,02065005268,Barber,Good,True
+20,Henry Martinez,Female,02371685642,Beautician,Fair,True
+21,Leslie Williams,Male,02383551550,Dentist,Good,True
+22,Mallory Foster,Male,02404011137,Aesthetician,Great,True
+23,Michelle Simmons,Male,02481024563,Photographer,Great,True
+24,Jonathan Rivers,Female,02586131049,Tutor,Good,True
+25,Ebony Flores,Male,02606221500,Aesthetician,Good,True
+26,Mary Chung,Male,02736930381,Barber,Fair,True
+27,Russell Bautista,Male,02989076052,Dentist,Good,True
+28,Kristina Mckinney,Female,02996051292,Tutor,Good,True
+29,Carl Vincent,Female,03342906356,Beautician,Poor,True
+30,Mark Dalton,Male,03410370462,Dentist,Good,True
+31,Jeffrey Mcneil,Female,03461240793,Tutor,Poor,True
+32,Michael Banks,Female,03842043759,Cleaner,Great,True
+33,John Rodriguez,Male,03885107003,Beautician,Good,True
+34,Joshua Henderson,Male,03892026733,Aesthetician,Poor,True
+35,Melinda Wood,Female,03963631897,Photographer,Great,True
+36,Dana Christian,Male,04097276483,Beautician,Poor,True
+37,Jonathan Robinson,Male,04099044762,Dentist,Good,True
+38,David Castillo,Male,04146123457,Counselor,Good,True
+39,Nicholas Blake,Female,04153502498,Barber,Great,True
+40,Mary Jones,Male,04162012033,Counselor,Great,True
+41,Michael Tran,Female,04169973712,Beautician,Good,True
+42,Jamie Lee,Male,04207075671,Personal Trainer,Good,True
+43,Michelle Mccullough,Female,04415629755,Beautician,Fair,True
+44,Jonathan Ward,Male,04456792999,Dentist,Good,True
+45,Melissa Hill,Female,04484638297,Cleaner,Good,True
+46,Nathan Riggs,Male,04640451382,Barber,Good,True
+47,Wendy Crawford,Female,04739154672,Tutor,Good,True
+48,Andrew Cardenas,Female,04829186967,Beautician,Good,True
+49,Brianna Hayes,Male,04923325340,Counselor,Good,True
+50,George Sullivan,Female,04968692255,Cleaner,Good,True
+51,Elizabeth Jackson,Female,04991167748,Photographer,Fair,True
+52,Chelsea Thomas,Female,05048613256,Tutor,Great,True
+53,Andrew Pope,Female,05061428477,Personal Trainer,Good,True
+54,Deanna King,Male,05489291082,Dentist,Fair,True
+55,Chad Walter,Male,05516590807,Cleaner,Great,True
+56,Christine May,Male,05692062179,Cleaner,Good,True
+57,Amy Castro,Male,05826712643,Beautician,Good,True
+58,Abigail Gonzalez,Female,05841749889,Counselor,Fair,True
+59,Kimberly Miller,Female,05846629170,Photographer,Poor,True
+60,Jennifer Sims,Male,06048306569,Beautician,Fair,True
+61,Jason Gray,Male,06173406984,Cleaner,Good,True
+62,Donald Byrd,Male,06346583069,Tutor,Fair,True
+63,John Baker,Female,06407332032,Personal Trainer,Good,True
+64,Derrick Singh,Female,06472147724,Personal Trainer,Great,True
+65,Dawn Miller,Female,06502772971,Personal Trainer,Poor,True
+66,Rachel Porter,Female,06570635648,Barber,Great,True
+67,Pamela Russell,Male,06605643172,Dentist,Fair,True
+68,Angel Miller,Female,06661647282,Cleaner,Good,True
+69,Ronald Watts,Female,06755012311,Aesthetician,Great,True
+70,Cindy Evans,Male,06774630157,Therapist,Good,True
+71,Jessica Walsh,Female,06821603315,Aesthetician,Good,True
+72,Elizabeth Walker,Male,06866259967,Aesthetician,Good,True
+73,Gavin Chambers,Male,07041411748,Cleaner,Great,True
+74,Rebecca Caldwell,Male,07074864347,Personal Trainer,Great,True
+75,Mary Gomez,Female,07159801734,Counselor,Awesome,True
+76,Christopher Ball,Male,07219241587,Aesthetician,Fair,True
+77,Jennifer Rogers,Male,07511170907,Beautician,Fair,True
+78,Casey Aguilar,Female,07647772672,Tutor,Good,True
+79,Sarah Williams,Female,07695492407,Beautician,Fair,True
+80,Jessica Hernandez,Male,07833368725,Tutor,Good,True
+81,Donna Aguirre,Male,08198225723,Therapist,Fair,True
+82,Carrie Frye,Female,08229493398,Barber,Good,True
+83,Nancy Sparks,Male,08445647526,Photographer,Good,True
+84,Sarah Perez,Female,08481894878,Tutor,Good,True
+85,Alicia Richmond,Female,08528321520,Tutor,Good,True
+86,Keith Simmons,Female,08600791979,Aesthetician,Good,True
+87,Sandra Miller,Female,08601418083,Personal Trainer,Great,True
+88,Jamie Snyder,Male,08615732034,Aesthetician,Fair,True
+89,Lisa Monroe,Male,08845999575,Photographer,Poor,True
+90,Laura Martinez,Female,08963751864,Aesthetician,Good,True
+91,Laurie Yang,Female,08992200052,Dentist,Good,True
+92,David Johnson,Male,09001761413,Photographer,Fair,True
+93,Michael Beck,Male,09142514785,Counselor,Fair,True
+94,Candace Morgan,Female,09164202308,Counselor,Fair,True
+95,Anne Clarke,Male,09247193678,Personal Trainer,Fair,True
+96,Lisa Scott,Female,09270693096,Photographer,Fair,True
+97,Patrick Butler,Male,09524843985,Therapist,Fair,True
+98,Angela Newton,Female,10070490184,Barber,Good,True
+99,Jose Roberts,Male,10668274441,Dentist,Poor,True
+100,Rodney Miller,Male,10839398440,Therapist,Awesome,True
+101,James Jordan,Male,10900982282,Therapist,Good,True
+102,Christopher Schultz,Female,10954289690,Photographer,Poor,True
+103,Eric Bailey,Female,10967744447,Therapist,Good,True
+104,Katie Perez,Male,11315834793,Therapist,Fair,True
+105,Brian Evans,Male,11330172345,Dentist,Fair,True
+106,Felicia Grant,Female,11339303943,Dentist,Fair,True
+107,Lisa Bell,Male,11570985359,Dentist,Good,True
+108,Steve Washington,Female,11576839895,Tutor,Good,True
+109,Robert Perez,Female,11893401437,Cleaner,Great,True
+110,Rebecca Wagner,Female,12234359548,Aesthetician,Good,True
+111,Kristi Jenkins,Male,12491000432,Barber,Fair,True
+112,Desiree Rice,Male,12541428124,Dentist,Great,True
+113,Steve Smith,Male,12644179210,Dentist,Great,True
+114,Michael Hill,Male,12889205289,Barber,Poor,True
+115,Raymond Fox,Male,13015128219,Barber,Fair,True
+116,William Garcia,Male,13124149605,Dentist,Fair,True
+117,James Smith,Female,13175760745,Barber,Poor,True
+118,Eric Alvarado,Male,13181022150,Dentist,Good,True
+119,Deborah Page,Male,13189527577,Tutor,Good,True
+120,Sandra Smith,Male,13305741438,Counselor,Fair,True
+121,Jonathan Nelson,Male,13316182229,Counselor,Good,True
+122,Stacy Miller,Female,13355815193,Barber,Good,True
+123,Lisa Roberts,Male,13462474853,Counselor,Good,True
+124,Katherine Pope,Female,13514338647,Cleaner,Great,True
+125,Dennis Flores,Male,13731697424,Beautician,Great,True
+126,Cheryl Vasquez,Female,13812795701,Personal Trainer,Fair,True
+127,Jaclyn Phillips,Male,13905262452,Aesthetician,Good,True
+128,Anthony Maldonado,Male,13949624827,Aesthetician,Fair,True
+129,Stephanie Robinson,Male,13955203144,Barber,Good,True
+130,Lynn Vasquez,Male,14225481497,Beautician,Good,True
+131,Jennifer Garcia,Female,14248313789,Photographer,Great,True
+132,Jamie Johnson,Female,14365721696,Beautician,Good,True
+133,Noah Hansen,Female,14599971461,Therapist,Good,True
+134,Richard Fleming,Female,14640411129,Cleaner,Good,True
+135,Erica Mcdonald,Male,14663580499,Counselor,Great,True
+136,Julie Lopez,Male,14814483472,Barber,Fair,True
+137,Evelyn Mcdaniel,Female,14909577703,Barber,Good,True
+138,Christopher Jones,Female,15050759425,Counselor,Poor,True
+139,Olivia Miller,Male,15114383524,Dentist,Great,True
+140,Elizabeth Crawford,Female,15296717828,Aesthetician,Fair,True
+141,Bradley Nichols,Male,15414218573,Aesthetician,Good,True
+142,Sarah Gray,Female,15683728949,Aesthetician,Fair,True
+143,Lynn Wallace,Female,15687842264,Counselor,Fair,True
+144,Riley Miller,Female,15708955106,Tutor,Good,True
+145,Melissa Martinez,Male,15802649659,Dentist,Good,True
+146,Zachary Hodge,Female,15854688351,Therapist,Good,True
+147,Amanda Boyd,Female,15861780023,Beautician,Fair,True
+148,Cindy Leon,Male,15982105087,Tutor,Fair,True
+149,Kristin Wilson,Female,15989487952,Tutor,Great,True
+150,James Richardson,Female,16084151923,Therapist,Good,True
+151,Daniel Porter,Male,16158790132,Therapist,Fair,True
+152,Steven Conner,Male,16180387677,Therapist,Great,True
+153,Anthony Wu,Female,16318888741,Barber,Poor,True
+154,Christian Ray,Female,16480502658,Counselor,Fair,True
+155,Jose Schwartz,Male,16763847225,Aesthetician,Good,True
+156,Carlos Sullivan,Male,16808300151,Tutor,Fair,True
+157,Thomas Brown,Male,16832484460,Cleaner,Fair,True
+158,Trevor Delacruz,Male,16842604488,Aesthetician,Good,True
+159,Robert Willis,Male,16879586690,Beautician,Good,True
+160,Sarah Roberson,Female,17001269838,Counselor,Great,True
+161,Samantha Walker,Male,17012580817,Tutor,Fair,True
+162,Steve Salazar,Male,17031581377,Beautician,Fair,True
+163,Sarah Perez,Male,17144241037,Counselor,Good,True
+164,David Sutton,Female,17188613382,Photographer,Awesome,True
+165,Andrew Tran,Female,17326589035,Barber,Good,True
+166,James Ware,Male,17491972181,Aesthetician,Fair,True
+167,Henry Cummings,Female,17671400327,Barber,Good,True
+168,Kathryn Walton,Female,17903957481,Counselor,Great,True
+169,James Richardson,Male,18027890052,Personal Trainer,Good,True
+170,Gabrielle Mendoza,Male,18028486565,Dentist,Good,True
+171,David Burns,Male,18210153518,Aesthetician,Great,True
+172,Beth Dodson,Male,18226175649,Beautician,Fair,True
+173,Todd Garcia,Female,19057494986,Tutor,Good,True
+174,Erin Peterson,Male,19108726555,Therapist,Fair,True
+175,Kimberly Stanley,Female,19255833211,Photographer,Good,True
+176,Connie Cook,Male,19686951038,Personal Trainer,Great,True
+177,Patricia Evans,Female,19703018122,Therapist,Fair,True
+178,Tammie Gentry,Female,19812268098,Aesthetician,Great,True
+179,James Williams,Female,19884626277,Barber,Good,True
+180,Dylan Maldonado,Female,19908423036,Barber,Great,True
+181,Randy Pierce,Male,20464068934,Aesthetician,Good,True
+182,Tina Moody,Female,20620171019,Personal Trainer,Awesome,True
+183,Ian Clark,Male,20743177336,Therapist,Poor,True
+184,Eugene Smith,Female,20986141243,Tutor,Good,True
+185,Jessica Howard,Female,21058649216,Tutor,Good,True
+186,Kristopher Sloan,Female,21064637345,Aesthetician,Good,True
+187,Ronald Fernandez,Male,21290798587,Cleaner,Great,True
+188,Nicole Gonzalez,Male,21309045805,Therapist,Fair,True
+189,Carol Watkins,Male,21344736464,Personal Trainer,Great,True
+190,Joseph Reyes,Female,21523519109,Dentist,Great,True
+191,Carrie Mason,Female,21581094632,Barber,Good,True
+192,Daniel Nicholson,Male,21596848011,Beautician,Fair,True
+193,Kelsey Pham,Male,21652686277,Counselor,Fair,True
+194,Joshua Chandler,Female,21781273274,Therapist,Great,True
+195,Travis Hartman,Male,22012191051,Photographer,Good,True
+196,Brandon Cox,Male,22196401707,Personal Trainer,Fair,True
+197,Benjamin Charles,Female,22341249845,Therapist,Great,True
+198,Matthew Moore,Female,22413191219,Aesthetician,Good,True
+199,Carolyn Cortez,Female,22432553856,Tutor,Good,True
+200,Robert Morrison,Male,22435307524,Dentist,Good,True
+201,Christopher Moreno,Female,22469275349,Personal Trainer,Great,True
+202,Brent Cook,Male,22501757716,Barber,Great,True
+203,Barbara George,Female,22503926715,Therapist,Great,True
+204,Jamie Parks,Male,22771621044,Barber,Good,True
+205,Leah Townsend,Female,22852582251,Counselor,Fair,True
+206,Christopher Campbell,Male,22914466715,Dentist,Good,True
+207,Luis Harris,Female,22917203162,Therapist,Fair,True
+208,Ryan Bowman,Female,22982726918,Barber,Good,True
+209,Joseph Molina,Male,23173316447,Personal Trainer,Great,True
+210,John Rojas,Male,23213012161,Cleaner,Fair,True
+211,Stanley Bennett,Male,23461221507,Aesthetician,Good,True
+212,Deborah Stevens,Female,23579663306,Personal Trainer,Fair,True
+213,Ryan Ward,Male,23775974755,Barber,Good,True
+214,Sean Ortiz,Male,23823354359,Counselor,Good,True
+215,Christopher Nunez,Male,23869401021,Beautician,Good,True
+216,Angela Moss,Male,23893731659,Barber,Good,True
+217,Laura Ward,Female,24157953265,Cleaner,Fair,True
+218,Kevin Wood,Male,24464925561,Aesthetician,Awesome,True
+219,Charles Middleton,Female,24470462276,Beautician,Great,True
+220,Laura Horn,Male,24480373392,Beautician,Good,True
+221,Jennifer Wright,Female,24489095369,Therapist,Good,True
+222,Rachel Thompson,Female,24503496788,Counselor,Fair,True
+223,Kristin Young,Female,24562816214,Aesthetician,Fair,True
+224,Jacqueline Stephens,Female,24694239551,Personal Trainer,Good,True
+225,Barbara Logan,Male,24856541362,Barber,Great,True
+226,Michelle Cline,Female,24882804388,Barber,Good,True
+227,Brenda Smith,Male,24984761327,Personal Trainer,Awesome,True
+228,Hannah Sandoval,Male,25003667822,Beautician,Good,True
+229,Timothy Lewis,Female,25292766273,Cleaner,Good,True
+230,Patricia Wise,Male,25488674279,Cleaner,Good,True
+231,Shirley Hobbs,Male,25689291440,Aesthetician,Good,True
+232,Lisa Yates,Male,26035797398,Dentist,Great,True
+233,Barbara Brown,Male,26064613390,Dentist,Great,True
+234,Heather Stone,Male,26196718575,Cleaner,Good,True
+235,Sandra Zamora,Female,26236408621,Therapist,Fair,True
+236,Charles Garrison,Female,26366030194,Cleaner,Good,True
+237,Laura Andrews,Male,26510281337,Photographer,Great,True
+238,Ryan Gomez,Female,26524492462,Dentist,Good,True
+239,Christopher Hanson,Male,26559009535,Dentist,Good,True
+240,Pamela Johnson,Female,26620406698,Beautician,Great,True
+241,Sean Allen,Female,26626670425,Personal Trainer,Good,True
+242,Jessica Gomez,Female,26700729401,Cleaner,Good,True
+243,Lisa Norris,Female,26976288730,Personal Trainer,Good,True
+244,Teresa Doyle,Female,27004126789,Tutor,Great,True
+245,Scott Mitchell,Female,27010647782,Photographer,Good,True
+246,Emily Allen,Female,27173310288,Aesthetician,Good,True
+247,Dawn Molina,Female,27324749155,Aesthetician,Good,True
+248,Laura Daniels,Female,27365457377,Therapist,Great,True
+249,Mary Dudley,Female,27395875104,Counselor,Good,True
+250,Deborah Jackson,Male,27479390854,Photographer,Fair,True
+251,Richard Gentry,Male,27512473961,Tutor,Awesome,True
+252,Susan Daniels,Female,27540275456,Photographer,Great,True
+253,Kathryn Richardson,Female,27609072160,Photographer,Great,True
+254,Jessica Stanton,Male,27898317049,Personal Trainer,Fair,True
+255,Hector Kerr,Female,27998833513,Personal Trainer,Great,True
+256,Sydney Santos,Male,28080329956,Beautician,Great,True
+257,Brittany Smith,Male,28091981396,Barber,Good,True
+258,Jessica Reyes,Male,28327049085,Beautician,Poor,True
+259,Latoya Mcdonald,Male,28698651856,Dentist,Good,True
+260,Rachel Scott,Female,28850739604,Barber,Fair,True
+261,James Lynch,Female,29097586345,Tutor,Good,True
+262,David Ingram,Female,29470102781,Beautician,Poor,True
+263,Alex Allen,Male,29883288574,Counselor,Fair,True
+264,Katherine Terry,Female,29917463057,Cleaner,Great,True
+265,Aaron Cole,Female,29989450066,Barber,Good,True
+266,Charles Young,Female,30101353091,Aesthetician,Fair,True
+267,Kenneth Robinson,Female,30156821101,Cleaner,Good,True
+268,Ashley Turner,Male,30217694031,Therapist,Great,True
+269,Terri Gray,Male,30235540187,Barber,Great,True
+270,Jeremy Cox,Female,30242084009,Therapist,Fair,True
+271,Marie Nunez,Female,30469912248,Cleaner,Fair,True
+272,Michael Serrano,Female,30534716769,Dentist,Fair,True
+273,Samantha Smith,Male,30594025967,Aesthetician,Good,True
+274,Angela Fields,Female,30748254582,Dentist,Good,True
+275,Stephen Osborne,Female,30943533184,Personal Trainer,Poor,True
+276,Colton Dyer,Male,31021227849,Counselor,Good,True
+277,Dustin Conway,Female,31035724784,Tutor,Good,True
+278,Alexandria Ball,Female,31247149100,Therapist,Good,True
+279,Kim Jackson,Male,31271508198,Personal Trainer,Great,True
+280,Allison Stewart,Male,31421281909,Aesthetician,Fair,True
+281,Courtney Morales,Male,31457760874,Counselor,Good,True
+282,Colton Baker,Female,31491455765,Counselor,Fair,True
+283,Chris Miller,Female,31616673934,Photographer,Poor,True
+284,George Walker,Male,31655902973,Counselor,Good,True
+285,Jonathan Garrett,Female,31892018947,Tutor,Great,True
+286,Taylor Holt,Male,31902439750,Barber,Great,True
+287,Pedro Leon,Male,32018679382,Aesthetician,Fair,True
+288,Lisa Floyd,Male,32084102029,Beautician,Good,True
+289,Sherry Bell,Male,32352634697,Barber,Fair,True
+290,Samantha Morrison,Male,32487843516,Therapist,Fair,True
+291,Nicholas Wood,Male,32630570440,Personal Trainer,Fair,True
+292,Carrie Jones,Female,32697845845,Aesthetician,Good,True
+293,Keith Cardenas,Female,32739219834,Personal Trainer,Fair,True
+294,Raven Burch,Female,32748800099,Counselor,Great,True
+295,Jessica Richmond,Male,32775805824,Barber,Good,True
+296,Lisa Ford,Male,32844078539,Beautician,Good,True
+297,William Cruz,Male,33010296250,Tutor,Great,True
+298,Phyllis Lee,Female,33129030020,Therapist,Good,True
+299,Lynn Ramirez,Female,33293325078,Counselor,Great,True
+300,Whitney Powell,Female,33301764636,Beautician,Good,True
+301,James Valentine,Male,33377587344,Personal Trainer,Good,True
+302,Brian Allen,Male,33475141427,Tutor,Fair,True
+303,Douglas Daniels,Male,33504937608,Beautician,Fair,True
+304,Shannon Hunter,Male,33649047211,Tutor,Poor,True
+305,Jeffrey Mitchell,Female,33734323493,Beautician,Good,True
+306,Jonathan Brown,Female,33801107256,Beautician,Fair,True
+307,Adam David,Female,33916180408,Photographer,Fair,True
+308,Leon Randall,Female,34303157195,Photographer,Good,True
+309,Javier Barrett,Female,34324778008,Beautician,Good,True
+310,Richard Montgomery,Male,34455028317,Dentist,Poor,True
+311,Cindy Black,Female,34458796448,Cleaner,Great,True
+312,Claudia Franco,Male,34490099379,Personal Trainer,Fair,True
+313,Patrick Jones,Male,34581452268,Personal Trainer,Fair,True
+314,Caroline Simmons,Male,34594963326,Therapist,Fair,True
+315,Kelly Thomas,Female,34627765231,Barber,Fair,True
+316,Laura Bryant,Female,34721241201,Photographer,Good,True
+317,Brian Walker,Female,34727744309,Cleaner,Good,True
+318,Michelle Stevens,Female,34829465743,Dentist,Fair,True
+319,Manuel Chen,Male,34929910202,Cleaner,Fair,True
+320,Jason Wallace,Female,35143462442,Dentist,Fair,True
+321,Dustin Gardner,Female,35158160280,Personal Trainer,Fair,True
+322,Charles Oneal,Male,35199265217,Barber,Great,True
+323,Casey Hunter,Female,35343028940,Therapist,Fair,True
+324,Bridget Galloway,Male,35399509835,Photographer,Good,True
+325,Nicole Martinez,Female,35551034288,Tutor,Poor,True
+326,Erin Jones,Male,35621642956,Barber,Good,True
+327,Bruce Morrow,Male,35855042841,Aesthetician,Good,True
+328,Anthony Roberson,Female,35901543292,Therapist,Good,True
+329,Amanda Collins,Female,35947134784,Cleaner,Good,True
+330,Felicia Howell,Male,35958789477,Photographer,Great,True
+331,William Wilkins,Female,36081215680,Therapist,Awesome,True
+332,Nicholas Riggs,Male,36100774531,Therapist,Great,True
+333,Aaron Humphrey,Male,36402095676,Therapist,Fair,True
+334,Tiffany Soto,Female,36534912669,Barber,Fair,True
+335,David Mcdonald,Female,36682756283,Barber,Good,True
+336,Kimberly Ford,Male,36710262218,Barber,Good,True
+337,James Wade,Male,36798248071,Beautician,Poor,True
+338,Melissa Bridges,Female,36803087397,Aesthetician,Fair,True
+339,Roberto Joseph,Male,36806484473,Dentist,Good,True
+340,Michelle Cox,Male,36988626076,Aesthetician,Poor,True
+341,Dale Tran,Male,37317830331,Personal Trainer,Fair,True
+342,Katie Martinez,Female,37425767100,Personal Trainer,Good,True
+343,Edward Mckinney,Female,37780339475,Aesthetician,Great,True
+344,Ryan Lewis,Female,38206198780,Beautician,Great,True
+345,Jasmine Dawson,Female,38258813078,Barber,Good,True
+346,Brent Robinson,Female,38332629306,Tutor,Good,True
+347,Madison Oliver,Female,38608252035,Counselor,Fair,True
+348,Kelly Martinez,Female,38693053699,Dentist,Good,True
+349,Shawn Farmer,Male,38729828960,Tutor,Fair,True
+350,Zachary Roberts,Male,38817041076,Therapist,Great,True
+351,Megan Williamson,Male,39481134176,Photographer,Good,True
+352,David Mcneil,Male,39490403519,Counselor,Great,True
+353,Rebecca Curtis,Female,39504510489,Dentist,Good,True
+354,Gina Anderson,Male,39707333732,Cleaner,Fair,True
+355,Patrick Christensen,Male,39749716809,Personal Trainer,Great,True
+356,Michael Butler,Male,39921627642,Tutor,Fair,True
+357,Kyle Stewart,Male,39927160422,Tutor,Good,True
+358,Christine Adkins,Male,40118400278,Personal Trainer,Fair,True
+359,Julie Galloway,Female,40125207768,Dentist,Great,True
+360,Angela Garcia,Female,40164142832,Aesthetician,Good,True
+361,Maria Price,Male,40470522476,Counselor,Good,True
+362,Kristina Faulkner,Female,40635851865,Barber,Good,True
+363,Benjamin Kelly,Female,40758964294,Therapist,Good,True
+364,Sarah Austin,Male,40843579797,Personal Trainer,Good,True
+365,Deanna Hodges,Female,40919897213,Beautician,Fair,True
+366,James Hale,Female,40930843690,Photographer,Good,True
+367,Rodney Johnson,Female,41285260552,Tutor,Fair,True
+368,Douglas Johnson,Male,41383552424,Photographer,Fair,True
+369,Trevor Evans,Female,41414138537,Cleaner,Great,True
+370,Tristan Jensen,Male,41507364834,Personal Trainer,Fair,True
+371,Douglas Turner,Male,41558970010,Photographer,Fair,True
+372,Erica Taylor,Female,41608667919,Aesthetician,Fair,True
+373,Bryan Ortega,Female,41652476359,Cleaner,Good,True
+374,Karen Brown,Male,41908561478,Therapist,Good,True
+375,Tyler Taylor,Female,42100639258,Aesthetician,Fair,True
+376,Kyle Bell,Female,42420993880,Tutor,Fair,True
+377,Matthew Olson,Male,42473419858,Personal Trainer,Good,True
+378,Jillian Delgado,Male,42521227615,Cleaner,Good,True
+379,Paul Bowers,Male,42521672998,Counselor,Great,True
+380,Jennifer Daniels,Male,42662652514,Barber,Fair,True
+381,Jesse Lee,Female,42861037106,Cleaner,Poor,True
+382,Sonia Stokes,Male,43070828110,Cleaner,Fair,True
+383,Sherri Perez,Male,43149159878,Personal Trainer,Good,True
+384,Richard Johnson,Male,43237834151,Aesthetician,Awesome,True
+385,Kristen Higgins,Female,43323921038,Photographer,Fair,True
+386,Jonathan Phillips,Female,43413940221,Cleaner,Great,True
+387,Katherine Solis,Female,43468646536,Barber,Good,True
+388,Mark Bray,Female,43709994671,Cleaner,Good,True
+389,Rebecca Chavez,Female,43741055529,Dentist,Fair,True
+390,Carrie Bailey,Female,44052873132,Counselor,Fair,True
+391,Corey Spencer,Male,44061586331,Photographer,Good,True
+392,Gary Jones,Male,44216153809,Counselor,Good,True
+393,Carla Price,Male,44225021693,Photographer,Fair,True
+394,Morgan Fuentes,Female,44234263256,Cleaner,Good,True
+395,Russell Miles,Female,44297894098,Aesthetician,Fair,True
+396,Robert Robertson,Male,44362541061,Photographer,Great,True
+397,John Kaiser,Female,44398073087,Photographer,Good,True
+398,Randall Wilson,Female,44525077222,Tutor,Good,True
+399,Joshua Hughes,Male,44610733324,Aesthetician,Good,True
+400,Diane Flores,Female,44611746237,Dentist,Good,True
+401,Mikayla Bailey,Male,44680097080,Photographer,Poor,True
+402,Nicole Reid,Female,44699116052,Counselor,Good,True
+403,Hannah Brown,Female,44855786754,Barber,Awesome,True
+404,Justin Byrd,Female,44857028485,Dentist,Fair,True
+405,Sandra Murphy,Female,45078863375,Beautician,Poor,True
+406,Sandra Sanchez,Male,45111639650,Personal Trainer,Great,True
+407,Francisco Carlson,Female,45128817596,Photographer,Fair,True
+408,Sarah Robinson,Female,45349650771,Counselor,Fair,True
+409,Jason Cooley,Female,45431053040,Personal Trainer,Poor,True
+410,Robin Rubio,Male,45624152469,Photographer,Good,True
+411,Joseph Richards,Female,45635258623,Photographer,Good,True
+412,Rebecca Wilkins,Male,45656125903,Therapist,Fair,True
+413,Rebecca Guerrero,Male,45778684040,Therapist,Fair,True
+414,Alexis Gonzalez,Male,45908703507,Photographer,Great,True
+415,Kevin Mcpherson,Male,46009001078,Therapist,Great,True
+416,Lindsey Moore,Female,46157839145,Barber,Good,True
+417,Jennifer Strickland,Female,46421497845,Counselor,Good,True
+418,Kayla Johnson,Male,46458440675,Tutor,Fair,True
+419,Alexander Snyder,Male,46491019731,Photographer,Great,True
+420,Lisa Avery,Female,46516585407,Dentist,Good,True
+421,Amy Warren,Male,46716917434,Barber,Fair,True
+422,Gabriel Burke,Male,46774396026,Tutor,Great,True
+423,John Wilson,Female,47014151726,Therapist,Poor,True
+424,Melinda Romero,Male,47112279537,Barber,Great,True
+425,Michael Mcbride,Female,47427711716,Cleaner,Good,True
+426,Lisa Rios,Female,47798753235,Cleaner,Good,True
+427,Molly Gilbert,Male,48067483679,Photographer,Good,True
+428,Stephen Welch,Male,48106382974,Beautician,Poor,True
+429,Melissa King,Male,48132491520,Cleaner,Great,True
+430,Bryan Stanton,Female,48149251864,Dentist,Good,True
+431,Alyssa Hudson,Male,48157496658,Photographer,Good,True
+432,Cassandra Delgado,Male,48197260998,Photographer,Great,True
+433,Joseph Carey,Female,48228999201,Photographer,Good,True
+434,Kathy Powell,Male,48353665296,Tutor,Fair,True
+435,Joseph Wilkins,Male,48423392888,Cleaner,Good,True
+436,Heidi Jensen,Male,48545247533,Barber,Fair,True
+437,Paula Hamilton,Male,48609245425,Personal Trainer,Fair,True
+438,Daniel Frank,Female,48677925846,Beautician,Fair,True
+439,Matthew Garcia,Male,48991572871,Beautician,Good,True
+440,Dalton Harmon,Female,49113466341,Dentist,Great,True
+441,Jennifer Smith,Female,49273234898,Dentist,Good,True
+442,Tiffany Waters,Female,49306507176,Barber,Fair,True
+443,Cassandra Snyder,Female,49309199738,Beautician,Great,True
+444,Gregory Hall,Male,49448866275,Personal Trainer,Good,True
+445,Nathan Wilson,Male,49542416592,Therapist,Great,True
+446,Anthony Jenkins,Female,49571276845,Beautician,Fair,True
+447,Corey Nguyen,Female,49617611023,Personal Trainer,Fair,True
+448,Shelley Simmons,Male,49734951308,Cleaner,Good,True
+449,Angelica Wiley,Female,50189053594,Personal Trainer,Great,True
+450,Troy Smith,Male,50205457054,Therapist,Great,True
+451,Chad Brown,Male,50239333994,Photographer,Fair,True
+452,Jonathan Shepard,Female,50556270618,Tutor,Fair,True
+453,Brittany Reyes,Male,50563171125,Barber,Good,True
+454,Jeffrey Perkins,Male,50615405885,Tutor,Good,True
+455,Joseph Bennett,Female,50696544259,Counselor,Fair,True
+456,Karen Evans,Male,50726949208,Aesthetician,Fair,True
+457,Alex Mitchell,Male,50747937121,Dentist,Good,True
+458,Joshua Mcdowell,Male,50796961769,Therapist,Great,True
+459,Marcus Gordon,Male,50899322774,Dentist,Fair,True
+460,Belinda Williams,Female,51078714051,Therapist,Great,True
+461,Danielle Hudson,Male,51154769981,Cleaner,Good,True
+462,Troy White,Male,51255438829,Aesthetician,Good,True
+463,Vicki Dalton,Female,51414885705,Barber,Fair,True
+464,Jeffrey Robinson,Male,51842441288,Beautician,Great,True
+465,John Allen,Male,52073273222,Dentist,Good,True
+466,Heather Rosario,Female,52277779100,Aesthetician,Great,True
+467,Christopher Joseph,Female,52314652736,Aesthetician,Poor,True
+468,Jeffrey Hart,Female,52330457436,Counselor,Fair,True
+469,Michelle Campbell,Male,52359408442,Cleaner,Good,True
+470,Amanda Morgan,Male,52619936313,Tutor,Good,True
+471,Angie Prince,Male,52887220157,Dentist,Good,True
+472,Lauren Jensen,Female,52941786381,Therapist,Fair,True
+473,Jessica Wallace,Female,53165609706,Tutor,Great,True
+474,George Cross,Male,53378484919,Tutor,Great,True
+475,Robert Valencia,Male,53463824543,Personal Trainer,Good,True
+476,Julian Weeks,Female,53582299987,Counselor,Fair,True
+477,Lisa Ruiz,Female,53673418472,Dentist,Great,True
+478,Pamela Holland,Male,53685023858,Aesthetician,Great,True
+479,John Lowery,Male,53692177455,Personal Trainer,Good,True
+480,Gina Reynolds,Male,53728868726,Beautician,Fair,True
+481,Zachary Roberts,Male,53734087760,Therapist,Fair,True
+482,Regina Clark,Female,53756522531,Tutor,Good,True
+483,Julian Schultz,Male,53774901448,Personal Trainer,Fair,True
+484,Ryan Jackson,Male,53856343010,Beautician,Fair,True
+485,Julie Gutierrez,Female,53882426584,Counselor,Fair,True
+486,Elaine Townsend,Female,53921573827,Personal Trainer,Great,True
+487,Maria Simpson,Male,54231721489,Beautician,Fair,True
+488,Wayne Bond,Male,54237967520,Therapist,Good,True
+489,Robin Hall,Female,54259566255,Tutor,Great,True
+490,Michael Morgan,Male,54446751721,Cleaner,Fair,True
+491,Diane Mcdowell,Female,54616411420,Barber,Good,True
+492,Amy Richards,Female,54744357325,Therapist,Fair,True
+493,Jessica Collins,Male,54841688786,Cleaner,Fair,True
+494,Thomas Foster,Male,55045620573,Tutor,Good,True
+495,Calvin Deleon,Male,55283687141,Aesthetician,Fair,True
+496,Manuel Hampton,Male,55538995784,Dentist,Good,True
+497,Manuel Steele,Male,55811683065,Tutor,Good,True
+498,Beverly Taylor,Female,55946688007,Counselor,Fair,True
+499,Sara Oliver,Male,55950101827,Counselor,Great,True
+500,Kathy Burton,Male,56085171515,Personal Trainer,Fair,True
+501,John Green,Male,56194581314,Counselor,Poor,True
+502,David Mathews,Male,56367046916,Photographer,Fair,True
+503,Kathryn Taylor,Female,56440814811,Aesthetician,Good,True
+504,Christopher Davis,Female,56444956795,Beautician,Great,True
+505,Charles Proctor,Male,56587614838,Tutor,Fair,True
+506,Derrick Carney,Female,56600744182,Barber,Good,True
+507,Gordon Sullivan,Female,56608893013,Therapist,Good,True
+508,Kimberly Schultz,Male,56624216759,Photographer,Good,True
+509,Shawna Bullock,Male,56696855177,Tutor,Fair,True
+510,Danny Anderson,Male,56703574179,Personal Trainer,Good,True
+511,Jennifer Prince,Female,57182082831,Dentist,Awesome,True
+512,Julia Sexton,Male,57379634326,Cleaner,Good,True
+513,Melanie Rivera,Male,57394752990,Cleaner,Fair,True
+514,Christopher Parker,Male,57460881507,Counselor,Good,True
+515,Austin Delgado,Female,57499703164,Personal Trainer,Fair,True
+516,Anthony Mason,Female,57597593826,Beautician,Fair,True
+517,Rachel Wright,Male,57916057336,Aesthetician,Good,True
+518,Amanda Peters,Male,58156560067,Barber,Fair,True
+519,Christina White,Female,58166640757,Beautician,Fair,True
+520,Courtney Brown,Female,58285412100,Aesthetician,Good,True
+521,Kimberly Moore,Male,58469281662,Aesthetician,Fair,True
+522,Brittany Martin,Male,58612061509,Barber,Good,True
+523,Paul Washington,Female,58628495388,Aesthetician,Poor,True
+524,Diane Bishop,Male,58697982108,Counselor,Poor,True
+525,Steven Navarro,Female,58709427135,Tutor,Good,True
+526,Jeremy Williams,Female,58716065866,Tutor,Good,True
+527,Maria Mathis,Female,58834818890,Tutor,Good,True
+528,Brittney Herrera,Female,58865479410,Personal Trainer,Poor,True
+529,Adam Hall,Female,58953011235,Photographer,Good,True
+530,Carla Mosley,Male,59023340104,Barber,Good,True
+531,Tyler Roberts,Male,59240852027,Beautician,Poor,True
+532,Jennifer Casey,Male,59249128619,Tutor,Fair,True
+533,April Bauer,Female,59359919740,Personal Trainer,Good,True
+534,Jacqueline Lee,Female,59417922927,Tutor,Fair,True
+535,Richard Shaw,Female,59643380823,Tutor,Fair,True
+536,Emily Cordova,Female,59666339629,Beautician,Fair,True
+537,Kyle Smith,Female,59853715973,Personal Trainer,Fair,True
+538,Christian Dean,Male,60063197920,Counselor,Good,True
+539,Brittany Young,Male,60142642245,Barber,Fair,True
+540,Gabriella Barker,Male,60713360559,Barber,Good,True
+541,Pamela Harris,Female,60813923608,Barber,Great,True
+542,Karen Miller,Male,60935789996,Aesthetician,Great,True
+543,Jamie Martin,Female,61138381400,Tutor,Great,True
+544,Trevor Gonzalez,Male,61155359617,Therapist,Fair,True
+545,Anna Farmer,Female,61227745834,Counselor,Good,True
+546,James Caldwell,Female,61239031770,Dentist,Good,True
+547,Adam Baker,Female,61333336680,Aesthetician,Good,True
+548,Debbie Ward,Male,61352319227,Barber,Good,True
+549,Emily Page,Male,61369865431,Photographer,Fair,True
+550,Shawn Hill,Male,61389097194,Photographer,Great,True
+551,Nicole Cunningham,Male,61510417477,Personal Trainer,Fair,True
+552,Rodney Meyer,Female,61553556680,Beautician,Fair,True
+553,Maria Zavala,Female,61611931462,Beautician,Good,True
+554,Nicole Bond,Female,61783289295,Aesthetician,Great,True
+555,Mason Butler,Male,61975283304,Therapist,Fair,True
+556,Justin Davis,Male,61982217511,Dentist,Good,True
+557,Joel Quinn,Male,62068853213,Counselor,Great,True
+558,Jamie White,Male,62122772226,Cleaner,Good,True
+559,Joseph Lopez,Male,62282511703,Counselor,Fair,True
+560,Jeremy Dougherty,Female,62424816612,Dentist,Poor,True
+561,Timothy Steele,Female,62464512802,Tutor,Awesome,True
+562,Ashley Gordon,Male,62514122797,Therapist,Great,True
+563,Joel Pena,Male,62533956502,Aesthetician,Good,True
+564,Maria Peters,Female,62545100290,Counselor,Fair,True
+565,Jeffery Gray,Female,62643988346,Photographer,Fair,True
+566,David Gamble,Female,62726832966,Cleaner,Fair,True
+567,Sarah Bruce,Male,62775852008,Personal Trainer,Good,True
+568,Brian Foley,Male,63280297480,Counselor,Fair,True
+569,Sabrina Alvarado,Female,63448901266,Cleaner,Great,True
+570,Carlos Smith,Male,63544695722,Therapist,Great,True
+571,Tyler Snyder,Female,63607984977,Barber,Good,True
+572,Michael Hill,Male,63709520354,Beautician,Good,True
+573,Jason Graves,Female,63776712665,Dentist,Good,True
+574,Stacy Doyle,Male,63820451249,Aesthetician,Good,True
+575,Dawn Bolton,Male,63877259173,Aesthetician,Good,True
+576,Donald Patterson,Female,63943871386,Beautician,Good,True
+577,Lori Lopez,Female,64401253939,Beautician,Fair,True
+578,Thomas Robertson,Female,64449730296,Therapist,Great,True
+579,Timothy Gaines,Male,64481186608,Dentist,Great,True
+580,Christina Frank,Male,64672483176,Barber,Good,True
+581,Kathy Price,Female,64762318712,Photographer,Fair,True
+582,Timothy West,Male,64809016186,Personal Trainer,Good,True
+583,Dalton Smith,Female,64810825895,Aesthetician,Fair,True
+584,Erik Montgomery,Female,65082795245,Aesthetician,Great,True
+585,Dawn Miller,Male,65234422272,Barber,Great,True
+586,Joseph Morris,Male,65245426672,Cleaner,Fair,True
+587,Steven English,Female,65482519869,Counselor,Great,True
+588,Michael Wilson,Male,65542602385,Tutor,Fair,True
+589,Pamela Lindsey,Female,65600266018,Tutor,Poor,True
+590,Sarah Wade,Female,65664522701,Aesthetician,Good,True
+591,Amy Pierce,Female,65752104593,Beautician,Good,True
+592,Joshua Harrington,Female,65788916355,Aesthetician,Fair,True
+593,Danielle Shelton,Male,65838165052,Dentist,Fair,True
+594,Emma Meyer,Female,66011714478,Aesthetician,Fair,True
+595,Dawn Hunt,Female,66037381114,Cleaner,Fair,True
+596,Destiny Watkins,Female,66068372157,Counselor,Fair,True
+597,Brenda Smith,Female,66094551406,Therapist,Fair,True
+598,Michael Clark,Female,66124468565,Beautician,Poor,True
+599,Jennifer Wright,Male,66164937252,Photographer,Fair,True
+600,Christopher Roberts,Male,66221951341,Photographer,Fair,True
+601,Michele Lewis,Female,66365730622,Aesthetician,Great,True
+602,Donna Lester,Female,66622489337,Barber,Good,True
+603,Lindsay Adams,Male,66654041001,Personal Trainer,Good,True
+604,Thomas Carter,Male,66661784170,Aesthetician,Great,True
+605,Jessica Mccullough,Female,66911488750,Beautician,Fair,True
+606,Julie Frazier,Female,66930475241,Photographer,Great,True
+607,Joshua Patterson,Female,67050349516,Cleaner,Good,True
+608,Megan Hebert,Male,67166259487,Dentist,Fair,True
+609,Danielle Miller,Female,67195099009,Tutor,Good,True
+610,Emily Cunningham,Male,67390029143,Dentist,Great,True
+611,Paula Good,Male,67424384526,Tutor,Fair,True
+612,Jennifer Mathis,Male,67452445366,Beautician,Good,True
+613,Sean Norman,Female,67787153097,Tutor,Good,True
+614,Ashley Hodges,Male,67856578594,Therapist,Great,True
+615,Yvonne Sparks,Female,67875149088,Barber,Good,True
+616,Katelyn Rios,Female,68025923373,Cleaner,Poor,True
+617,Jennifer Parker,Male,68174653157,Personal Trainer,Good,True
+618,Katie Price,Male,68357016790,Dentist,Good,True
+619,Garrett Stewart,Female,68498458061,Tutor,Fair,True
+620,Jonathan Jenkins,Male,68613748474,Counselor,Great,True
+621,James Rodriguez,Female,68716210915,Counselor,Poor,True
+622,Nicole Blankenship,Male,68771290474,Dentist,Great,True
+623,Becky Burke,Male,68949524766,Therapist,Good,True
+624,Tyler Harper,Female,69147708968,Personal Trainer,Great,True
+625,Katelyn Taylor,Female,69245605994,Therapist,Fair,True
+626,Vickie Cain,Male,69246109608,Photographer,Great,True
+627,Jennifer Ramos,Female,69435026045,Cleaner,Fair,True
+628,Barbara Lynch,Female,69664335828,Tutor,Fair,True
+629,Joseph Bradley,Female,69684288012,Photographer,Good,True
+630,Johnny Beck,Female,69693630404,Therapist,Great,True
+631,Kim Gross,Male,70075643165,Beautician,Good,True
+632,Brent Williams,Male,70094369039,Dentist,Fair,True
+633,Katherine Brown,Female,70123385305,Counselor,Great,True
+634,Angela Williams,Male,70394013829,Beautician,Great,True
+635,Jessica Reed,Female,70571978424,Counselor,Good,True
+636,Tina Wagner,Male,70680425171,Barber,Great,True
+637,Walter Woods,Female,70706597945,Beautician,Fair,True
+638,Robert Pierce,Male,70915280331,Barber,Fair,True
+639,Michael Shelton,Female,71107987904,Therapist,Good,True
+640,Mark Roberts,Female,71244724949,Photographer,Good,True
+641,Bob Benton,Male,71267427644,Photographer,Good,True
+642,Karen Turner,Male,71326384763,Dentist,Good,True
+643,Carrie Kirk,Female,71420141830,Personal Trainer,Good,True
+644,Philip Rodgers,Male,71592061082,Photographer,Good,True
+645,Charles Olsen,Male,71652470412,Dentist,Great,True
+646,Jackie Knight,Male,71661771499,Therapist,Fair,True
+647,Lisa Myers,Female,71948595947,Therapist,Good,True
+648,Matthew Ross,Female,72288577650,Aesthetician,Good,True
+649,Zachary Davis,Female,72319343418,Barber,Fair,True
+650,Robert Fleming,Female,72329460918,Barber,Great,True
+651,Victoria Cochran,Male,72335405224,Cleaner,Poor,True
+652,Alexandra White,Female,72503094291,Photographer,Fair,True
+653,Maureen Meyer,Female,72623534793,Dentist,Great,True
+654,Morgan Taylor,Male,72648890757,Dentist,Great,True
+655,Brenda James,Female,72685701662,Beautician,Good,True
+656,Cynthia Christensen,Female,72890469552,Aesthetician,Fair,True
+657,Jeffrey Collier,Male,72907296602,Tutor,Great,True
+658,Erin Martinez,Female,73040791946,Barber,Good,True
+659,Carrie Webster,Female,73160534495,Counselor,Poor,True
+660,Ashley Arnold,Female,73171867538,Cleaner,Good,True
+661,Kelly Jimenez,Female,73277992697,Dentist,Great,True
+662,Lori Burgess,Female,73309614864,Dentist,Poor,True
+663,Heather Fields,Male,73583479637,Personal Trainer,Good,True
+664,Kayla Booth,Male,73635491354,Dentist,Good,True
+665,Paul Wilson,Female,73740767596,Cleaner,Good,True
+666,Kelly Smith,Female,73792973908,Beautician,Fair,True
+667,Jeffrey Johnson,Female,73841755782,Cleaner,Great,True
+668,Amy Miller,Male,73859367645,Dentist,Good,True
+669,Anna Patel,Male,74446814214,Personal Trainer,Good,True
+670,Paul Burns,Female,74463811638,Photographer,Fair,True
+671,Brett Cline,Female,74520309043,Barber,Great,True
+672,Hannah Wall,Male,74641898364,Cleaner,Good,True
+673,Veronica Coleman,Female,74664513909,Barber,Good,True
+674,David Matthews,Male,74743063723,Dentist,Fair,True
+675,Kelly Adams,Male,74970223450,Counselor,Good,True
+676,Christina Arnold,Female,75045565886,Cleaner,Poor,True
+677,Phillip Rodriguez,Female,75064170564,Therapist,Fair,True
+678,Brandon Montgomery,Male,75218365248,Photographer,Great,True
+679,Wanda Henry,Female,75399838020,Dentist,Good,True
+680,Emma Dominguez,Male,75501842458,Tutor,Good,True
+681,Alexander Leon,Female,75584693657,Therapist,Good,True
+682,Andrew Myers,Male,75897120757,Cleaner,Great,True
+683,Rebecca Carlson,Male,75979764646,Barber,Great,True
+684,Henry Baker,Male,76007920837,Beautician,Great,True
+685,Heather Rivas,Female,76151225351,Counselor,Great,True
+686,Christopher Moore,Male,76370331951,Photographer,Fair,True
+687,George Ochoa,Male,76424306140,Barber,Fair,True
+688,James Trujillo,Female,76625381264,Therapist,Great,True
+689,Austin Vargas,Female,76681575890,Personal Trainer,Great,True
+690,Nathaniel Davenport,Female,76759691040,Personal Trainer,Fair,True
+691,Christian Hernandez,Female,76905411542,Photographer,Poor,True
+692,Nicholas Gonzalez,Female,76934493655,Cleaner,Fair,True
+693,James Brown,Male,77055649733,Dentist,Fair,True
+694,Margaret Dawson,Female,77074061733,Personal Trainer,Good,True
+695,Robert Lewis,Male,77255977816,Cleaner,Poor,True
+696,Anita Horton,Male,77272137604,Dentist,Awesome,True
+697,Sarah Long,Male,77335168125,Tutor,Good,True
+698,Jacob Alexander,Female,77441633719,Beautician,Awesome,True
+699,Tyler Perez,Female,77497836800,Cleaner,Good,True
+700,Wendy Sanchez,Male,77601742485,Beautician,Good,True
+701,Joseph Stevens,Female,77658248128,Photographer,Good,True
+702,Amanda Beasley,Female,77695561102,Aesthetician,Great,True
+703,Daniel Brown,Female,77727200517,Therapist,Great,True
+704,Michelle Davis,Female,77728019482,Aesthetician,Fair,True
+705,Stephen Washington,Female,77914725461,Dentist,Fair,True
+706,Linda Robinson,Male,77996060521,Tutor,Great,True
+707,Alexander Gonzales,Male,78100894970,Dentist,Great,True
+708,Charles Morris,Female,78994036121,Counselor,Great,True
+709,Jacob Lee,Male,79020325374,Aesthetician,Fair,True
+710,Diana Bean,Male,79083763669,Therapist,Fair,True
+711,Nathaniel Kim,Female,79107082224,Aesthetician,Good,True
+712,Hannah Perry,Female,79312583233,Cleaner,Good,True
+713,Alexander Estrada,Male,79399577414,Photographer,Fair,True
+714,David Andersen,Female,79454025651,Cleaner,Fair,True
+715,Donald Miller,Male,79583887321,Personal Trainer,Good,True
+716,Renee Grant,Male,79673101509,Cleaner,Great,True
+717,David Molina,Female,79803250578,Tutor,Fair,True
+718,Thomas Reed,Male,79929490262,Therapist,Great,True
+719,Colleen Banks,Male,80073372055,Personal Trainer,Fair,True
+720,Dave Brown,Female,80160897223,Barber,Good,True
+721,Melanie Ferguson,Female,80233087639,Tutor,Good,True
+722,Jeremy Moore,Female,80243439241,Beautician,Fair,True
+723,Emily Miller,Male,80644176449,Photographer,Good,True
+724,Kara Velez,Female,80705464319,Barber,Poor,True
+725,Sandra Anderson,Female,80790570692,Photographer,Fair,True
+726,Joshua Davis,Male,80809466385,Dentist,Fair,True
+727,Tony Sherman,Female,80920748066,Counselor,Great,True
+728,Nicole Hernandez,Male,80935169143,Beautician,Good,True
+729,Tina Diaz,Male,81104645862,Dentist,Poor,True
+730,Bradley Camacho,Female,81371967133,Barber,Good,True
+731,Edward Taylor,Female,81676093013,Personal Trainer,Fair,True
+732,Brett Montes,Female,81682561359,Tutor,Good,True
+733,Holly Monroe,Female,81898465157,Personal Trainer,Fair,True
+734,David Hogan,Male,82006645907,Counselor,Fair,True
+735,Hector Abbott,Female,82054095212,Tutor,Fair,True
+736,Richard Sims,Female,82249800790,Therapist,Great,True
+737,Mark James,Male,82740358216,Beautician,Good,True
+738,Lisa Escobar,Female,82743368552,Dentist,Great,True
+739,Glenda Ruiz,Female,82821093767,Counselor,Fair,True
+740,George Williams,Female,82846347021,Personal Trainer,Poor,True
+741,Jennifer Hensley,Female,82864631278,Dentist,Good,True
+742,Heather Cooper,Female,82986216981,Photographer,Good,True
+743,Linda Reed,Male,83090912863,Tutor,Fair,True
+744,Julia Ewing,Male,83095457405,Cleaner,Good,True
+745,Brian Butler,Male,83467014008,Aesthetician,Poor,True
+746,Philip Mills,Female,83521258662,Tutor,Good,True
+747,Brittney Lopez,Male,83614593609,Counselor,Great,True
+748,Renee Rodgers,Male,83760278896,Photographer,Good,True
+749,Gabrielle Payne,Male,84003582245,Counselor,Good,True
+750,Lindsay Phillips,Male,84037498957,Dentist,Fair,True
+751,John Reeves,Male,84092640924,Barber,Good,True
+752,Kathleen Martinez,Male,84173599052,Personal Trainer,Fair,True
+753,Brooke Rivera,Female,84231234187,Personal Trainer,Good,True
+754,Dillon Duran,Female,84242243853,Tutor,Good,True
+755,Christopher Diaz,Male,84262229348,Cleaner,Great,True
+756,Sierra Martinez,Female,84383179314,Cleaner,Fair,True
+757,Steven Sanchez,Male,84583501001,Photographer,Good,True
+758,Micheal Stephens,Male,84594933811,Counselor,Good,True
+759,Claudia Arnold,Male,84679757074,Beautician,Great,True
+760,John Lewis,Female,85323830318,Tutor,Good,True
+761,Brandon Ramirez,Male,85349112857,Counselor,Good,True
+762,Alicia Smith,Male,85378820856,Barber,Good,True
+763,Emily Andrews,Male,85464543899,Dentist,Good,True
+764,Jeremy Barry,Female,85549307013,Therapist,Good,True
+765,Heather Briggs,Male,85555639859,Aesthetician,Fair,True
+766,Thomas Campbell,Female,85737619435,Personal Trainer,Great,True
+767,Sarah Moore,Male,85868072845,Photographer,Fair,True
+768,Tyler Leon,Male,85952137639,Tutor,Good,True
+769,Mark Rowland,Male,86065341931,Therapist,Fair,True
+770,Larry Ramirez,Female,86086818981,Personal Trainer,Good,True
+771,Victor Soto,Female,86160013064,Therapist,Good,True
+772,William Fleming,Female,86357639311,Tutor,Great,True
+773,Kelsey Howard,Male,86361860019,Counselor,Good,True
+774,David Bailey,Female,86461520641,Personal Trainer,Good,True
+775,Debra Johnson,Female,86499416317,Counselor,Great,True
+776,Amy Smith,Female,86526879075,Counselor,Good,True
+777,Frank Henderson,Female,86545776145,Aesthetician,Great,True
+778,Alice Herrera,Female,86575733806,Barber,HELL,False
+779,Anthony Cochran,Female,86925975275,Tutor,Good,True
+780,Sabrina Guerrero,Male,87023660172,Photographer,Fair,True
+781,Anthony Lewis,Male,87098376449,Personal Trainer,Poor,True
+782,Jonathan Price,Female,87114386194,Beautician,Great,True
+783,Donald Blake,Female,87130820247,Cleaner,Good,True
+784,John Estrada,Male,87357454717,Beautician,Good,True
+785,Nathaniel Conley,Male,87425230388,Cleaner,Good,True
+786,Patricia Grant,Male,87476517881,Cleaner,Great,True
+787,James Stevenson,Female,87566904328,Cleaner,Poor,True
+788,Pamela Gray,Female,87687066358,Photographer,Good,True
+789,Katie Hunt,Female,87711934572,Cleaner,Great,True
+790,Allen Robles,Female,87840367225,Beautician,Good,True
+791,Chris Mclean,Male,87871010529,Therapist,Great,True
+792,Michael Bates,Male,87925339399,Counselor,Great,True
+793,Kristin Crawford,Male,87930547364,Barber,Fair,True
+794,James Harrison,Female,88112219803,Beautician,Great,True
+795,Jonathan Murray,Male,88190009757,Therapist,Great,True
+796,Luis Garrett,Male,88555760317,Counselor,Great,True
+797,Carolyn Walton,Female,88725043449,Beautician,Good,True
+798,Jamie Jones,Male,88902429202,Cleaner,Good,True
+799,Michael Bowers,Female,88924473961,Photographer,Fair,True
+800,Ashley Reid,Female,88937844003,Cleaner,Great,True
+801,Gary Ingram,Male,89120691701,Photographer,Fair,True
+802,Jennifer Hudson,Female,89144882687,Tutor,Fair,True
+803,Hailey Garcia,Female,89333789840,Dentist,Great,True
+804,Stephen Schmidt,Male,89435682541,Counselor,Fair,True
+805,Stephanie Hensley,Male,89583754449,Cleaner,Fair,True
+806,George Shields,Male,89608851519,Tutor,Good,True
+807,Cheryl Le,Male,89671960711,Beautician,Good,True
+808,Raymond Hester,Female,89726071215,Aesthetician,Good,True
+809,Jennifer Kennedy,Male,89764643747,Aesthetician,Fair,True
+810,David Smith,Female,89799262338,Barber,Good,True
+811,Erin Ward,Female,89831578571,Cleaner,Great,True
+812,Amy Evans,Male,89844072672,Cleaner,Good,True
+813,Rebecca Yang,Male,90224049769,Therapist,Fair,True
+814,Daniel Cooper,Female,90299944854,Tutor,Fair,True
+815,Stephanie Adams,Female,90316565756,Photographer,Great,True
+816,Mathew Moreno,Male,90454420762,Barber,Good,True
+817,John Brown,Male,90629429455,Therapist,Fair,True
+818,Michael Avery,Female,90818392699,Counselor,Fair,True
+819,Elizabeth Newman,Female,91123093601,Therapist,Good,True
+820,James Hall,Male,91159499037,Dentist,Great,True
+821,James Larson,Male,91348782315,Photographer,Good,True
+822,Teresa White,Female,91467499776,Photographer,Poor,True
+823,Katherine Hess,Female,91571305791,Counselor,Fair,True
+824,Jill Hudson,Female,91754935603,Barber,Good,True
+825,Anthony Meza,Male,91985517881,Aesthetician,Good,True
+826,Patricia Walter,Male,91991546118,Counselor,Great,True
+827,Mary Estrada,Male,92015885777,Photographer,Great,True
+828,Keith Wilson,Female,92143107072,Beautician,Fair,True
+829,Charles Cook,Male,92279651770,Dentist,Fair,True
+830,Jane Sharp,Male,92416328881,Beautician,Good,True
+831,Kristy Smith,Female,92600251442,Aesthetician,Good,True
+832,Brandon Davis,Female,92614530162,Photographer,Great,True
+833,Paula Campbell,Male,92666381844,Therapist,Fair,True
+834,Breanna Kennedy,Female,92708552893,Aesthetician,Good,True
+835,Andrew Lopez,Male,92753907022,Personal Trainer,Good,True
+836,Courtney Brown,Female,93071392228,Personal Trainer,Great,True
+837,Craig Dyer,Female,93084267510,Photographer,Fair,True
+838,Ashley Williams,Female,93223886052,Photographer,Good,True
+839,Mark Young,Female,93363886323,Dentist,Great,True
+840,David Thomas,Male,93380296485,Beautician,Good,True
+841,Emma Miller,Female,93900168913,Personal Trainer,Great,True
+842,Christina Willis,Male,93960985603,Cleaner,Good,True
+843,Michael Lozano,Female,93995272786,Dentist,Great,True
+844,Taylor Johnson,Male,94013123276,Beautician,Good,True
+845,Gerald Bean,Male,94029876765,Therapist,Good,True
+846,Julie Osborne,Female,94111316013,Therapist,Good,True
+847,Ryan Elliott,Male,94272242957,Personal Trainer,Fair,True
+848,Barbara Mitchell,Female,94286632572,Therapist,Good,True
+849,Kevin Schmidt,Female,94412647001,Dentist,Good,True
+850,Joseph Clark,Male,94547597132,Barber,Good,True
+851,Christina Hicks,Male,94567134863,Beautician,Good,True
+852,Lisa Johnson,Female,94717281008,Counselor,Good,True
+853,Daniel Williams,Male,94959314456,Barber,Fair,True
+854,Matthew Bartlett,Female,94968120254,Counselor,Poor,True
+855,Wesley Collins,Male,95096499262,Personal Trainer,Great,True
+856,Sandra Thompson,Male,95205195854,Cleaner,Good,True
+857,Brandi Murphy,Male,95289919184,Tutor,Fair,True
+858,Douglas Baker,Male,95471316073,Therapist,Great,True
+859,Sonya Rowland,Male,95506478707,Dentist,Good,True
+860,Kathryn Smith,Male,95517753579,Personal Trainer,Great,True
+861,Anthony Burns,Female,95573315648,Aesthetician,Great,True
+862,Michael Mitchell,Male,95615101419,Therapist,Great,True
+863,Maria Perry,Male,95627353677,Cleaner,Good,True
+864,Patty Marshall,Male,95708773442,Aesthetician,Great,True
+865,Patrick Price,Male,95751343209,Personal Trainer,Great,True
+866,Samantha Black,Male,95769355012,Photographer,Poor,True
+867,Charles Jenkins,Female,95872528242,Cleaner,Good,True
+868,Kyle Salas,Female,95919935128,Tutor,Great,True
+869,Christie Munoz,Male,95946910773,Cleaner,Fair,True
+870,Aaron Hill,Female,96096610668,Photographer,Good,True
+871,Sophia Rowland,Female,96182411096,Dentist,Good,True
+872,Regina Robinson,Male,96218859391,Tutor,Good,True
+873,Catherine Brown,Male,96419199780,Cleaner,Great,True
+874,James Navarro,Female,96428193153,Barber,Fair,True
+875,Robin Vaughan,Male,96543929836,Aesthetician,Great,True
+876,Gilbert Johnson,Male,96634754534,Photographer,Fair,True
+877,Wayne Baker,Female,96743753769,Beautician,Fair,True
+878,Alexander Madden,Female,96907785873,Cleaner,Good,True
+879,Ashley Tucker,Male,96997085112,Counselor,Poor,True
+880,Dylan Ray,Female,97015229510,Aesthetician,Great,True
+881,Juan Benjamin,Male,97023755360,Therapist,Great,True
+882,David Molina,Female,97082974400,Counselor,Great,True
+883,Lori Richardson,Female,97441819093,Therapist,Fair,True
+884,Alexander Sparks,Female,97451922413,Beautician,Fair,True
+885,Robert Anderson,Male,97578740305,Personal Trainer,Fair,True
+886,Amber Burke,Male,97668617662,Tutor,Good,True
+887,Jacob Hernandez,Male,97746560376,Photographer,Good,True
+888,Patricia Le,Male,97955686417,Photographer,Good,True
+889,Michael King,Female,98025970519,Counselor,Fair,True
+890,Kayla Brown,Female,98155258618,Counselor,Good,True
+891,Thomas Cook,Male,98177506113,Aesthetician,Good,True
+892,Catherine Taylor,Female,98723231020,Counselor,Good,True
+893,Dennis Pierce,Male,98737693514,Personal Trainer,Fair,True
+894,Michelle Bowers,Male,98876539342,Counselor,Fair,True
+895,Monique Koch,Male,99040402626,Therapist,Great,True
+896,Isaac Anderson,Male,99257474983,Photographer,Fair,True
+897,Jasmine Bell,Male,99335885363,Cleaner,Good,True
+898,Mark Butler,Male,99476523737,Photographer,Good,True
+899,Donna Sanchez,Male,99722181497,Barber,Fair,True
+900,John Perez,Male,99782881372,Beautician,Great,True
+901,Kenneth Woods,Male,77172032458,Barber,Fair,True
+902,Laurie Crawford,Female,96797650868,Barber,Good,True
+903,David Williams,Female,57134846356,Therapist,Fair,True
+904,Janice Bean,Male,37891074033,Therapist,Good,True
+905,Stephen Burgess,Male,94902694930,Beautician,Good,True
+906,Jo Campbell,Male,10591060025,Beautician,Good,True
+907,Jacqueline Cortez,Female,35517955465,Aesthetician,Good,True
+908,Ralph Knapp,Female,38625954116,Aesthetician,Good,True
+909,Brian Bryan,Male,58673544685,Aesthetician,Good,True
+910,Jenny Strickland,Female,16351338729,Personal Trainer,Good,True
+911,John Barrett,Female,03220218387,Dentist,Good,True
+912,Michelle Nguyen,Female,42695902833,Dentist,Fair,True
+913,Derek Berger,Male,15514555166,Counselor,Fair,True
+914,Christopher Watson,Male,24396751476,Counselor,Good,True
+915,Michael Norris,Male,25345192090,Tutor,Good,True
+916,Andrew Sawyer,Female,24674891448,Tutor,Good,True
+917,Sara Thompson,Female,81846008246,Photographer,Good,True
+918,Jack Fisher,Male,77022249419,Photographer,Great,True
+919,Anita Henry,Male,38513694431,Cleaner,Fair,True
+920,Craig Blevins,Female,79787487767,Cleaner,Good,True

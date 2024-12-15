@@ -1,0 +1,28 @@
+JunkID,StatusOfAppointment,IsFree,IsPromoCodeUsed
+1,Canceled,NO,YES
+2,No Show,YES,YES
+3,Canceled,NO,NO
+4,No Show,NO,YES
+5,Waiting,YES,YES
+6,Done,NO,NO
+7,Done,YES,YES
+8,No Show,NO,NO
+9,Waiting,NO,NO
+10,Done,NO,YES
+11,No Show,YES,NO
+12,Canceled,YES,NO
+13,Waiting,NO,YES
+14,Waiting,NO,NO
+15,No Show,NO,NO
+16,Done,NO,YES
+17,No Show,YES,NO
+18,Canceled,YES,NO
+19,Waiting,NO,YES
+20,Canceled,NO,NO
+21,No Show,NO,YES
+22,Waiting,YES,YES
+23,Done,NO,NO
+24,Done,YES,YES
+25,Canceled,NO,YES
+26,No Show,YES,YES
+27,Canceled,YES,YES

@@ -1,0 +1,310 @@
+CompanyID,CompanyName,TypeOfCompany,RatingsOfCompanyCategory
+1,Long, Pham and Phillips,Barber Shop,Fair
+2,Smith, Aguilar and Phillips,Barber Shop,Fair
+3,Miller, Flowers and Klein,Barber Shop,Fair
+4,Ferguson, Long and Gillespie,Barber Shop,Awesome
+5,Lopez-Campbell,Barber Shop,Good
+6,Elliott Inc,Barber Shop,Great
+7,Nelson Inc,Barber Shop,Poor
+8,Shepherd LLC,Barber Shop,Poor
+9,Anderson, Kaiser and Garner,Barber Shop,Poor
+10,Gonzales, Gonzales and Williams,Barber Shop,Good
+11,Reese-Davidson,Barber Shop,Poor
+12,Fisher and Sons,Barber Shop,Poor
+13,Nunez-Gomez,Barber Shop,Poor
+14,Campbell-Sweeney,Barber Shop,Good
+15,Haynes PLC,Barber Shop,Great
+16,Pennington, Clark and Jackson,Barber Shop,Fair
+17,Torres PLC,Barber Shop,Awesome
+18,Harris-Ramsey,Barber Shop,Good
+19,Williams Group,Barber Shop,Fair
+20,Norton-Mills,Barber Shop,Great
+21,Wyatt-Wright,Barber Shop,Awesome
+22,Snow-Bray,Barber Shop,Awesome
+23,Ayala Group,Barber Shop,Good
+24,Bennett and Sons,Barber Shop,Good
+25,Mcgee-Cook,Barber Shop,Poor
+26,Cannon, Cole and Atkins,Barber Shop,Poor
+27,Lopez Inc,Barber Shop,Fair
+28,Lopez, Orr and Smith,Barber Shop,Poor
+29,King-Tate,Barber Shop,Fair
+30,Webb and Sons,Barber Shop,Good
+31,Bartlett, Perry and Gomez,Spa & Wellness Center,Poor
+32,Hardin, Krueger and Copeland,Spa & Wellness Center,Poor
+33,Stone-Black,Spa & Wellness Center,Awesome
+34,Osborne-Gonzalez,Spa & Wellness Center,Poor
+35,Hood-Johnson,Spa & Wellness Center,Fair
+36,Bass-Hayes,Spa & Wellness Center,Awesome
+37,Green and Sons,Spa & Wellness Center,Awesome
+38,Price-Powell,Spa & Wellness Center,Poor
+39,Knight, Lowe and Rogers,Spa & Wellness Center,Great
+40,Erickson PLC,Spa & Wellness Center,Good
+41,Lewis-Harris,Spa & Wellness Center,Great
+42,Johnson, Hull and Franklin,Spa & Wellness Center,Great
+43,Rogers LLC,Spa & Wellness Center,Awesome
+44,Murillo-Garrison,Spa & Wellness Center,Good
+45,Franklin, Murphy and Gomez,Spa & Wellness Center,Good
+46,Wallace LLC,Spa & Wellness Center,Great
+47,Rodriguez-Garcia,Spa & Wellness Center,Good
+48,Reynolds-Montgomery,Spa & Wellness Center,Awesome
+49,Coleman-Diaz,Spa & Wellness Center,Poor
+50,Page-Cain,Spa & Wellness Center,Awesome
+51,Martinez-Bruce,Spa & Wellness Center,Fair
+52,Rivera Inc,Spa & Wellness Center,Good
+53,Mcpherson-Thompson,Spa & Wellness Center,Fair
+54,Rodriguez-Alvarado,Spa & Wellness Center,Poor
+55,Scott Ltd,Spa & Wellness Center,Poor
+56,Perez-Mayo,Spa & Wellness Center,Poor
+57,Bowers-Foley,Spa & Wellness Center,Poor
+58,Smith, Miller and Larson,Spa & Wellness Center,Poor
+59,Martinez, Bryant and Hernandez,Spa & Wellness Center,Good
+60,Wells, Kelly and Simon,Spa & Wellness Center,Good
+61,Hall-Robinson,Beauty Salon,Fair
+62,Harper-Fuller,Beauty Salon,Great
+63,Orozco, West and Thompson,Beauty Salon,Great
+64,Salas, Ortiz and Berry,Beauty Salon,Good
+65,Hanson-Huff,Beauty Salon,Great
+66,Williams-Nelson,Beauty Salon,Awesome
+67,Figueroa, Nichols and Gonzalez,Beauty Salon,Poor
+68,Yoder, Mercado and Hernandez,Beauty Salon,Fair
+69,Monroe, Fernandez and Forbes,Beauty Salon,Poor
+70,Mejia PLC,Beauty Salon,Awesome
+71,Humphrey and Sons,Beauty Salon,Poor
+72,Taylor-Allison,Beauty Salon,Awesome
+73,Watson-Evans,Beauty Salon,Poor
+74,Benjamin PLC,Beauty Salon,Poor
+75,Patrick, Wilson and Cortez,Beauty Salon,Good
+76,Williams PLC,Beauty Salon,Poor
+77,Scott LLC,Beauty Salon,Awesome
+78,Thornton, Ray and Smith,Beauty Salon,Fair
+79,Sawyer LLC,Beauty Salon,Poor
+80,Allen-Smith,Beauty Salon,Awesome
+81,Bender-Hanson,Beauty Salon,Poor
+82,Reyes-Braun,Beauty Salon,Poor
+83,Gill, Silva and Baker,Beauty Salon,Poor
+84,Le Group,Beauty Salon,Fair
+85,Singh, Gallegos and Larson,Beauty Salon,Poor
+86,Lyons LLC,Beauty Salon,Poor
+87,Harris-Rivas,Beauty Salon,Fair
+88,Clarke-Davis,Beauty Salon,Poor
+89,Beck Ltd,Beauty Salon,Poor
+90,Chavez, Weber and Lamb,Beauty Salon,Poor
+91,Anderson, Williams and Davis,Aesthetic Clinic,Awesome
+92,Ortiz LLC,Aesthetic Clinic,Poor
+93,Young-Rivera,Aesthetic Clinic,Fair
+94,Martinez, Maxwell and Morrison,Aesthetic Clinic,Great
+95,Huff, Hughes and Franklin,Aesthetic Clinic,Fair
+96,Warner-Mcneil,Aesthetic Clinic,Fair
+97,Rodriguez LLC,Aesthetic Clinic,Awesome
+98,Mason-Martin,Aesthetic Clinic,Poor
+99,Robinson LLC,Aesthetic Clinic,Poor
+100,Obrien, Henry and Hayes,Aesthetic Clinic,Poor
+101,Flores, Espinoza and Owens,Aesthetic Clinic,Fair
+102,Ward, Christensen and Schultz,Aesthetic Clinic,Great
+103,Mueller and Sons,Aesthetic Clinic,Poor
+104,Smith-Harmon,Aesthetic Clinic,Great
+105,Nguyen and Sons,Aesthetic Clinic,Great
+106,Vasquez Ltd,Aesthetic Clinic,Poor
+107,Garza-Smith,Aesthetic Clinic,Poor
+108,Guerrero, James and Hammond,Aesthetic Clinic,Poor
+109,Kennedy, Graham and Armstrong,Aesthetic Clinic,Awesome
+110,Kennedy-Brooks,Aesthetic Clinic,Awesome
+111,Smith-Cantu,Aesthetic Clinic,Poor
+112,Williams Inc,Aesthetic Clinic,Awesome
+113,Williams, Carpenter and Larson,Aesthetic Clinic,Fair
+114,Lane, Nelson and Hicks,Aesthetic Clinic,Poor
+115,Thomas, Ford and Mays,Aesthetic Clinic,Fair
+116,Gilmore, Frederick and Cox,Aesthetic Clinic,Fair
+117,Wise-Leonard,Aesthetic Clinic,Poor
+118,Flores, Patton and Maldonado,Aesthetic Clinic,Poor
+119,Patton-Ford,Aesthetic Clinic,Fair
+120,Wall Group,Aesthetic Clinic,Awesome
+121,Riggs, Torres and Rodriguez,Gym,Awesome
+122,Powers Inc,Gym,Good
+123,Martin, Mueller and Gray,Gym,Fair
+124,Webster Ltd,Gym,Poor
+125,Wright-Payne,Gym,Poor
+126,Caldwell Inc,Gym,Good
+127,Watkins, Walker and Mason,Gym,Poor
+128,Newman, Smith and Estes,Gym,Poor
+129,Pearson-Edwards,Gym,Poor
+130,James-Leach,Gym,Good
+131,Flores, Guerrero and Rodriguez,Gym,Good
+132,Baldwin Ltd,Gym,Awesome
+133,Rodriguez Group,Gym,Good
+134,Marquez, Jackson and Green,Gym,Poor
+135,Valdez, Williams and Valencia,Gym,Good
+136,Gonzales-James,Gym,Good
+137,Watkins, Hunt and Yang,Gym,Poor
+138,Wallace, Wright and Williams,Gym,Fair
+139,Mccarthy Inc,Gym,Great
+140,Knight, Coleman and Maynard,Gym,Poor
+141,Sanchez LLC,Gym,Poor
+142,Gardner, Johnson and Goodwin,Gym,Good
+143,Johnson, Hicks and Peterson,Gym,Good
+144,Sanchez Ltd,Gym,Great
+145,Harvey and Sons,Gym,Great
+146,Parker and Sons,Gym,Fair
+147,Lamb Inc,Gym,Good
+148,Scott LLC,Gym,Fair
+149,Morrison Group,Gym,Poor
+150,Spencer and Sons,Gym,Poor
+151,Charles LLC,Dental Clinic,Fair
+152,Yates-Hogan,Dental Clinic,Poor
+153,Mosley-Wilson,Dental Clinic,Awesome
+154,Rhodes-Choi,Dental Clinic,Great
+155,Peterson Ltd,Dental Clinic,Fair
+156,Mccall PLC,Dental Clinic,Great
+157,Davis LLC,Dental Clinic,Poor
+158,Williamson-Kent,Dental Clinic,Poor
+159,Wilcox Inc,Dental Clinic,Great
+160,Sanders, Mckay and Greer,Dental Clinic,Poor
+161,Castro Ltd,Dental Clinic,Poor
+162,Johnson, Ortiz and Morgan,Dental Clinic,Poor
+163,Escobar PLC,Dental Clinic,Awesome
+164,Sampson Group,Dental Clinic,Fair
+165,Silva-Leonard,Dental Clinic,Poor
+166,Fuentes, Wright and Greene,Dental Clinic,Great
+167,Fernandez-Barnes,Dental Clinic,Fair
+168,Cox, Garcia and Larsen,Dental Clinic,Good
+169,Hampton-Nelson,Dental Clinic,Poor
+170,Ramirez, Hobbs and Joyce,Dental Clinic,Poor
+171,Larson, Baker and Chavez,Dental Clinic,Good
+172,Duarte, Sims and Harris,Dental Clinic,Good
+173,Gay-Price,Dental Clinic,Awesome
+174,Barber and Sons,Dental Clinic,Fair
+175,Lee, Mata and Lloyd,Dental Clinic,Fair
+176,Thomas Inc,Dental Clinic,Awesome
+177,Hines Inc,Dental Clinic,Great
+178,Payne Ltd,Dental Clinic,Good
+179,Fowler-Hopkins,Dental Clinic,Good
+180,Tran, Bautista and Lee,Dental Clinic,Poor
+181,Davenport LLC,Counselling Center,Good
+182,Scott-Randall,Counselling Center,Fair
+183,Cook, Solomon and Lowery,Counselling Center,Great
+184,Beck, Barnes and Morse,Counselling Center,Awesome
+185,Tran Ltd,Counselling Center,Poor
+186,Wiley-Day,Counselling Center,Great
+187,Moyer Group,Counselling Center,Poor
+188,Stevenson-Olson,Counselling Center,Fair
+189,Fowler and Sons,Counselling Center,Great
+190,Ramirez PLC,Counselling Center,Poor
+191,Cook Group,Counselling Center,Fair
+192,Stark Inc,Counselling Center,Awesome
+193,Chavez-Larson,Counselling Center,Fair
+194,Mercado PLC,Counselling Center,Good
+195,Martinez, Shea and Rowe,Counselling Center,Poor
+196,Kramer Ltd,Counselling Center,Poor
+197,Wilcox, Baker and Gallagher,Counselling Center,Great
+198,James, Robinson and Fuentes,Counselling Center,Poor
+199,Lawrence, Brandt and Nelson,Counselling Center,Poor
+200,Norton, White and Anderson,Counselling Center,Fair
+201,Rivera-Ortiz,Counselling Center,Great
+202,Smith, Carlson and Hoffman,Counselling Center,Poor
+203,Schmidt PLC,Counselling Center,Awesome
+204,Fernandez-Diaz,Counselling Center,Poor
+205,Sanchez-Brown,Counselling Center,Fair
+206,Jones, Brown and Allen,Counselling Center,Poor
+207,Burch, Jordan and Richard,Counselling Center,Fair
+208,Contreras, Perez and Beck,Counselling Center,Poor
+209,Cook, Byrd and Henderson,Counselling Center,Awesome
+210,Valenzuela, Smith and Payne,Counselling Center,Awesome
+211,Saunders-Lowery,Educational Institute,Fair
+212,Anderson Inc,Educational Institute,Poor
+213,Johnson, Hawkins and Dorsey,Educational Institute,Great
+214,Ramos, George and Silva,Educational Institute,Awesome
+215,Jones-Williams,Educational Institute,Awesome
+216,Mitchell, Alexander and Walton,Educational Institute,Great
+217,Hayes-Cole,Educational Institute,Fair
+218,Santos LLC,Educational Institute,Great
+219,Norton-Walker,Educational Institute,Good
+220,Shea, Elliott and Roth,Educational Institute,Awesome
+221,Anderson-Martinez,Educational Institute,Awesome
+222,Francis PLC,Educational Institute,Fair
+223,Kelly-Miller,Educational Institute,Fair
+224,Wright Group,Educational Institute,Fair
+225,Patterson PLC,Educational Institute,Fair
+226,Russo, Jenkins and Gutierrez,Educational Institute,Poor
+227,Mckee, Dennis and Vasquez,Educational Institute,Fair
+228,Lang LLC,Educational Institute,Good
+229,Chapman Ltd,Educational Institute,Awesome
+230,Fischer-Brown,Educational Institute,Great
+231,Garcia, Cox and Holloway,Educational Institute,Poor
+232,Jones, Martin and Williams,Educational Institute,Poor
+233,Harris and Sons,Educational Institute,Awesome
+234,Adkins-Chapman,Educational Institute,Poor
+235,Smith, Yoder and Spencer,Educational Institute,Fair
+236,Bowman-Mcdonald,Educational Institute,Poor
+237,White Group,Educational Institute,Fair
+238,Harris, Ross and Hernandez,Educational Institute,Poor
+239,Richard, Hernandez and Stewart,Educational Institute,Awesome
+240,Tate and Sons,Educational Institute,Great
+241,Caldwell, Pugh and Hernandez,Photography Studio,Poor
+242,Moore PLC,Photography Studio,Fair
+243,Thomas-Haas,Photography Studio,Awesome
+244,Lee LLC,Photography Studio,Poor
+245,Schmitt Group,Photography Studio,Poor
+246,Mcgee Inc,Photography Studio,Great
+247,Phelps Inc,Photography Studio,Fair
+248,Donovan Group,Photography Studio,Poor
+249,White Inc,Photography Studio,Good
+250,Butler-Freeman,Photography Studio,Poor
+251,Hines, Gutierrez and Daniels,Photography Studio,Poor
+252,Walker-Torres,Photography Studio,Good
+253,Bell and Sons,Photography Studio,Poor
+254,Martinez-Garcia,Photography Studio,Fair
+255,Mitchell, Gallegos and Miller,Photography Studio,Awesome
+256,Brown, Taylor and Flowers,Photography Studio,Fair
+257,Black-Cox,Photography Studio,Poor
+258,Diaz LLC,Photography Studio,Poor
+259,Arellano Inc,Photography Studio,Good
+260,Caldwell-Hobbs,Photography Studio,Great
+261,Allison-Bishop,Photography Studio,Fair
+262,Bass, Mcdonald and Ellison,Photography Studio,Poor
+263,Ramirez-Dean,Photography Studio,Poor
+264,Lee PLC,Photography Studio,Awesome
+265,Madden Group,Photography Studio,Great
+266,Andrews-Vargas,Photography Studio,Poor
+267,Meyers-Bender,Photography Studio,Poor
+268,Crane-Wagner,Photography Studio,Poor
+269,Richard-Arellano,Photography Studio,Poor
+270,White Inc,Photography Studio,Awesome
+271,Davis, Santos and Avila,Cleaning Service,Fair
+272,Ball, Hines and Jones,Cleaning Service,Awesome
+273,Nguyen, Oconnor and Russo,Cleaning Service,Fair
+274,Murphy Group,Cleaning Service,Great
+275,Roberson-Sanford,Cleaning Service,Good
+276,White, Flores and Herring,Cleaning Service,Poor
+277,Vincent, Anderson and Holmes,Cleaning Service,Good
+278,Simon and Sons,Cleaning Service,Fair
+279,Pittman-Alexander,Cleaning Service,Poor
+280,Montgomery Inc,Cleaning Service,Fair
+281,Sullivan, Schmidt and Manning,Cleaning Service,Great
+282,Newton, Miles and Dominguez,Cleaning Service,Great
+283,Mcintyre-Escobar,Cleaning Service,Good
+284,Sandoval, Marshall and Sanders,Cleaning Service,Great
+285,Smith, Kennedy and Jones,Cleaning Service,Good
+286,Carson, Watson and Williams,Cleaning Service,Awesome
+287,Hughes-Miller,Cleaning Service,Poor
+288,Henderson-Rivera,Cleaning Service,Good
+289,Petersen Inc,Cleaning Service,Good
+290,Brown, Gomez and Murphy,Cleaning Service,Great
+291,Richards, Porter and Knight,Cleaning Service,Awesome
+292,Wilson-Smith,Cleaning Service,Poor
+293,Roberts, Morris and Sanchez,Cleaning Service,Good
+294,Lyons Ltd,Cleaning Service,Good
+295,Cohen-Coleman,Cleaning Service,Awesome
+296,Rodriguez, Marshall and Anderson,Cleaning Service,Great
+297,Hernandez Group,Cleaning Service,Poor
+298,Kelly-Rios,Cleaning Service,Awesome
+299,Thompson Group,Cleaning Service,Awesome
+300,Caldwell, Bullock and Johnson,Cleaning Service,Fair
+301,Turner Ltd,Barber Shop,Great
+302,Johnson Inc,Spa & Wellness Center,Fair
+303,Bell LLC,Beauty Salon,Fair
+304,Carpenter-Mcgee,Gym,Awesome
+305,Quinn and Sons,Dental Clinic,Poor
+306,Hanna-Walker,Counselling Center,Poor
+307,Oliver-Ramirez,Educational Institute,Poor
+308,Olson, Gonzalez and Thomas,Photography Studio,Poor
+309,George-Thomas,Cleaning Service,Good

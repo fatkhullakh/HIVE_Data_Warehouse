@@ -1,0 +1,1441 @@
+TimeID,Hour,Minutes,TimeOfDay
+1,0,0,before 8
+2,0,1,before 8
+3,0,2,before 8
+4,0,3,before 8
+5,0,4,before 8
+6,0,5,before 8
+7,0,6,before 8
+8,0,7,before 8
+9,0,8,before 8
+10,0,9,before 8
+11,0,10,before 8
+12,0,11,before 8
+13,0,12,before 8
+14,0,13,before 8
+15,0,14,before 8
+16,0,15,before 8
+17,0,16,before 8
+18,0,17,before 8
+19,0,18,before 8
+20,0,19,before 8
+21,0,20,before 8
+22,0,21,before 8
+23,0,22,before 8
+24,0,23,before 8
+25,0,24,before 8
+26,0,25,before 8
+27,0,26,before 8
+28,0,27,before 8
+29,0,28,before 8
+30,0,29,before 8
+31,0,30,before 8
+32,0,31,before 8
+33,0,32,before 8
+34,0,33,before 8
+35,0,34,before 8
+36,0,35,before 8
+37,0,36,before 8
+38,0,37,before 8
+39,0,38,before 8
+40,0,39,before 8
+41,0,40,before 8
+42,0,41,before 8
+43,0,42,before 8
+44,0,43,before 8
+45,0,44,before 8
+46,0,45,before 8
+47,0,46,before 8
+48,0,47,before 8
+49,0,48,before 8
+50,0,49,before 8
+51,0,50,before 8
+52,0,51,before 8
+53,0,52,before 8
+54,0,53,before 8
+55,0,54,before 8
+56,0,55,before 8
+57,0,56,before 8
+58,0,57,before 8
+59,0,58,before 8
+60,0,59,before 8
+61,1,0,before 8
+62,1,1,before 8
+63,1,2,before 8
+64,1,3,before 8
+65,1,4,before 8
+66,1,5,before 8
+67,1,6,before 8
+68,1,7,before 8
+69,1,8,before 8
+70,1,9,before 8
+71,1,10,before 8
+72,1,11,before 8
+73,1,12,before 8
+74,1,13,before 8
+75,1,14,before 8
+76,1,15,before 8
+77,1,16,before 8
+78,1,17,before 8
+79,1,18,before 8
+80,1,19,before 8
+81,1,20,before 8
+82,1,21,before 8
+83,1,22,before 8
+84,1,23,before 8
+85,1,24,before 8
+86,1,25,before 8
+87,1,26,before 8
+88,1,27,before 8
+89,1,28,before 8
+90,1,29,before 8
+91,1,30,before 8
+92,1,31,before 8
+93,1,32,before 8
+94,1,33,before 8
+95,1,34,before 8
+96,1,35,before 8
+97,1,36,before 8
+98,1,37,before 8
+99,1,38,before 8
+100,1,39,before 8
+101,1,40,before 8
+102,1,41,before 8
+103,1,42,before 8
+104,1,43,before 8
+105,1,44,before 8
+106,1,45,before 8
+107,1,46,before 8
+108,1,47,before 8
+109,1,48,before 8
+110,1,49,before 8
+111,1,50,before 8
+112,1,51,before 8
+113,1,52,before 8
+114,1,53,before 8
+115,1,54,before 8
+116,1,55,before 8
+117,1,56,before 8
+118,1,57,before 8
+119,1,58,before 8
+120,1,59,before 8
+121,2,0,before 8
+122,2,1,before 8
+123,2,2,before 8
+124,2,3,before 8
+125,2,4,before 8
+126,2,5,before 8
+127,2,6,before 8
+128,2,7,before 8
+129,2,8,before 8
+130,2,9,before 8
+131,2,10,before 8
+132,2,11,before 8
+133,2,12,before 8
+134,2,13,before 8
+135,2,14,before 8
+136,2,15,before 8
+137,2,16,before 8
+138,2,17,before 8
+139,2,18,before 8
+140,2,19,before 8
+141,2,20,before 8
+142,2,21,before 8
+143,2,22,before 8
+144,2,23,before 8
+145,2,24,before 8
+146,2,25,before 8
+147,2,26,before 8
+148,2,27,before 8
+149,2,28,before 8
+150,2,29,before 8
+151,2,30,before 8
+152,2,31,before 8
+153,2,32,before 8
+154,2,33,before 8
+155,2,34,before 8
+156,2,35,before 8
+157,2,36,before 8
+158,2,37,before 8
+159,2,38,before 8
+160,2,39,before 8
+161,2,40,before 8
+162,2,41,before 8
+163,2,42,before 8
+164,2,43,before 8
+165,2,44,before 8
+166,2,45,before 8
+167,2,46,before 8
+168,2,47,before 8
+169,2,48,before 8
+170,2,49,before 8
+171,2,50,before 8
+172,2,51,before 8
+173,2,52,before 8
+174,2,53,before 8
+175,2,54,before 8
+176,2,55,before 8
+177,2,56,before 8
+178,2,57,before 8
+179,2,58,before 8
+180,2,59,before 8
+181,3,0,before 8
+182,3,1,before 8
+183,3,2,before 8
+184,3,3,before 8
+185,3,4,before 8
+186,3,5,before 8
+187,3,6,before 8
+188,3,7,before 8
+189,3,8,before 8
+190,3,9,before 8
+191,3,10,before 8
+192,3,11,before 8
+193,3,12,before 8
+194,3,13,before 8
+195,3,14,before 8
+196,3,15,before 8
+197,3,16,before 8
+198,3,17,before 8
+199,3,18,before 8
+200,3,19,before 8
+201,3,20,before 8
+202,3,21,before 8
+203,3,22,before 8
+204,3,23,before 8
+205,3,24,before 8
+206,3,25,before 8
+207,3,26,before 8
+208,3,27,before 8
+209,3,28,before 8
+210,3,29,before 8
+211,3,30,before 8
+212,3,31,before 8
+213,3,32,before 8
+214,3,33,before 8
+215,3,34,before 8
+216,3,35,before 8
+217,3,36,before 8
+218,3,37,before 8
+219,3,38,before 8
+220,3,39,before 8
+221,3,40,before 8
+222,3,41,before 8
+223,3,42,before 8
+224,3,43,before 8
+225,3,44,before 8
+226,3,45,before 8
+227,3,46,before 8
+228,3,47,before 8
+229,3,48,before 8
+230,3,49,before 8
+231,3,50,before 8
+232,3,51,before 8
+233,3,52,before 8
+234,3,53,before 8
+235,3,54,before 8
+236,3,55,before 8
+237,3,56,before 8
+238,3,57,before 8
+239,3,58,before 8
+240,3,59,before 8
+241,4,0,before 8
+242,4,1,before 8
+243,4,2,before 8
+244,4,3,before 8
+245,4,4,before 8
+246,4,5,before 8
+247,4,6,before 8
+248,4,7,before 8
+249,4,8,before 8
+250,4,9,before 8
+251,4,10,before 8
+252,4,11,before 8
+253,4,12,before 8
+254,4,13,before 8
+255,4,14,before 8
+256,4,15,before 8
+257,4,16,before 8
+258,4,17,before 8
+259,4,18,before 8
+260,4,19,before 8
+261,4,20,before 8
+262,4,21,before 8
+263,4,22,before 8
+264,4,23,before 8
+265,4,24,before 8
+266,4,25,before 8
+267,4,26,before 8
+268,4,27,before 8
+269,4,28,before 8
+270,4,29,before 8
+271,4,30,before 8
+272,4,31,before 8
+273,4,32,before 8
+274,4,33,before 8
+275,4,34,before 8
+276,4,35,before 8
+277,4,36,before 8
+278,4,37,before 8
+279,4,38,before 8
+280,4,39,before 8
+281,4,40,before 8
+282,4,41,before 8
+283,4,42,before 8
+284,4,43,before 8
+285,4,44,before 8
+286,4,45,before 8
+287,4,46,before 8
+288,4,47,before 8
+289,4,48,before 8
+290,4,49,before 8
+291,4,50,before 8
+292,4,51,before 8
+293,4,52,before 8
+294,4,53,before 8
+295,4,54,before 8
+296,4,55,before 8
+297,4,56,before 8
+298,4,57,before 8
+299,4,58,before 8
+300,4,59,before 8
+301,5,0,before 8
+302,5,1,before 8
+303,5,2,before 8
+304,5,3,before 8
+305,5,4,before 8
+306,5,5,before 8
+307,5,6,before 8
+308,5,7,before 8
+309,5,8,before 8
+310,5,9,before 8
+311,5,10,before 8
+312,5,11,before 8
+313,5,12,before 8
+314,5,13,before 8
+315,5,14,before 8
+316,5,15,before 8
+317,5,16,before 8
+318,5,17,before 8
+319,5,18,before 8
+320,5,19,before 8
+321,5,20,before 8
+322,5,21,before 8
+323,5,22,before 8
+324,5,23,before 8
+325,5,24,before 8
+326,5,25,before 8
+327,5,26,before 8
+328,5,27,before 8
+329,5,28,before 8
+330,5,29,before 8
+331,5,30,before 8
+332,5,31,before 8
+333,5,32,before 8
+334,5,33,before 8
+335,5,34,before 8
+336,5,35,before 8
+337,5,36,before 8
+338,5,37,before 8
+339,5,38,before 8
+340,5,39,before 8
+341,5,40,before 8
+342,5,41,before 8
+343,5,42,before 8
+344,5,43,before 8
+345,5,44,before 8
+346,5,45,before 8
+347,5,46,before 8
+348,5,47,before 8
+349,5,48,before 8
+350,5,49,before 8
+351,5,50,before 8
+352,5,51,before 8
+353,5,52,before 8
+354,5,53,before 8
+355,5,54,before 8
+356,5,55,before 8
+357,5,56,before 8
+358,5,57,before 8
+359,5,58,before 8
+360,5,59,before 8
+361,6,0,before 8
+362,6,1,before 8
+363,6,2,before 8
+364,6,3,before 8
+365,6,4,before 8
+366,6,5,before 8
+367,6,6,before 8
+368,6,7,before 8
+369,6,8,before 8
+370,6,9,before 8
+371,6,10,before 8
+372,6,11,before 8
+373,6,12,before 8
+374,6,13,before 8
+375,6,14,before 8
+376,6,15,before 8
+377,6,16,before 8
+378,6,17,before 8
+379,6,18,before 8
+380,6,19,before 8
+381,6,20,before 8
+382,6,21,before 8
+383,6,22,before 8
+384,6,23,before 8
+385,6,24,before 8
+386,6,25,before 8
+387,6,26,before 8
+388,6,27,before 8
+389,6,28,before 8
+390,6,29,before 8
+391,6,30,before 8
+392,6,31,before 8
+393,6,32,before 8
+394,6,33,before 8
+395,6,34,before 8
+396,6,35,before 8
+397,6,36,before 8
+398,6,37,before 8
+399,6,38,before 8
+400,6,39,before 8
+401,6,40,before 8
+402,6,41,before 8
+403,6,42,before 8
+404,6,43,before 8
+405,6,44,before 8
+406,6,45,before 8
+407,6,46,before 8
+408,6,47,before 8
+409,6,48,before 8
+410,6,49,before 8
+411,6,50,before 8
+412,6,51,before 8
+413,6,52,before 8
+414,6,53,before 8
+415,6,54,before 8
+416,6,55,before 8
+417,6,56,before 8
+418,6,57,before 8
+419,6,58,before 8
+420,6,59,before 8
+421,7,0,before 8
+422,7,1,before 8
+423,7,2,before 8
+424,7,3,before 8
+425,7,4,before 8
+426,7,5,before 8
+427,7,6,before 8
+428,7,7,before 8
+429,7,8,before 8
+430,7,9,before 8
+431,7,10,before 8
+432,7,11,before 8
+433,7,12,before 8
+434,7,13,before 8
+435,7,14,before 8
+436,7,15,before 8
+437,7,16,before 8
+438,7,17,before 8
+439,7,18,before 8
+440,7,19,before 8
+441,7,20,before 8
+442,7,21,before 8
+443,7,22,before 8
+444,7,23,before 8
+445,7,24,before 8
+446,7,25,before 8
+447,7,26,before 8
+448,7,27,before 8
+449,7,28,before 8
+450,7,29,before 8
+451,7,30,before 8
+452,7,31,before 8
+453,7,32,before 8
+454,7,33,before 8
+455,7,34,before 8
+456,7,35,before 8
+457,7,36,before 8
+458,7,37,before 8
+459,7,38,before 8
+460,7,39,before 8
+461,7,40,before 8
+462,7,41,before 8
+463,7,42,before 8
+464,7,43,before 8
+465,7,44,before 8
+466,7,45,before 8
+467,7,46,before 8
+468,7,47,before 8
+469,7,48,before 8
+470,7,49,before 8
+471,7,50,before 8
+472,7,51,before 8
+473,7,52,before 8
+474,7,53,before 8
+475,7,54,before 8
+476,7,55,before 8
+477,7,56,before 8
+478,7,57,before 8
+479,7,58,before 8
+480,7,59,before 8
+481,8,0,between 8 and 10
+482,8,1,between 8 and 10
+483,8,2,between 8 and 10
+484,8,3,between 8 and 10
+485,8,4,between 8 and 10
+486,8,5,between 8 and 10
+487,8,6,between 8 and 10
+488,8,7,between 8 and 10
+489,8,8,between 8 and 10
+490,8,9,between 8 and 10
+491,8,10,between 8 and 10
+492,8,11,between 8 and 10
+493,8,12,between 8 and 10
+494,8,13,between 8 and 10
+495,8,14,between 8 and 10
+496,8,15,between 8 and 10
+497,8,16,between 8 and 10
+498,8,17,between 8 and 10
+499,8,18,between 8 and 10
+500,8,19,between 8 and 10
+501,8,20,between 8 and 10
+502,8,21,between 8 and 10
+503,8,22,between 8 and 10
+504,8,23,between 8 and 10
+505,8,24,between 8 and 10
+506,8,25,between 8 and 10
+507,8,26,between 8 and 10
+508,8,27,between 8 and 10
+509,8,28,between 8 and 10
+510,8,29,between 8 and 10
+511,8,30,between 8 and 10
+512,8,31,between 8 and 10
+513,8,32,between 8 and 10
+514,8,33,between 8 and 10
+515,8,34,between 8 and 10
+516,8,35,between 8 and 10
+517,8,36,between 8 and 10
+518,8,37,between 8 and 10
+519,8,38,between 8 and 10
+520,8,39,between 8 and 10
+521,8,40,between 8 and 10
+522,8,41,between 8 and 10
+523,8,42,between 8 and 10
+524,8,43,between 8 and 10
+525,8,44,between 8 and 10
+526,8,45,between 8 and 10
+527,8,46,between 8 and 10
+528,8,47,between 8 and 10
+529,8,48,between 8 and 10
+530,8,49,between 8 and 10
+531,8,50,between 8 and 10
+532,8,51,between 8 and 10
+533,8,52,between 8 and 10
+534,8,53,between 8 and 10
+535,8,54,between 8 and 10
+536,8,55,between 8 and 10
+537,8,56,between 8 and 10
+538,8,57,between 8 and 10
+539,8,58,between 8 and 10
+540,8,59,between 8 and 10
+541,9,0,between 8 and 10
+542,9,1,between 8 and 10
+543,9,2,between 8 and 10
+544,9,3,between 8 and 10
+545,9,4,between 8 and 10
+546,9,5,between 8 and 10
+547,9,6,between 8 and 10
+548,9,7,between 8 and 10
+549,9,8,between 8 and 10
+550,9,9,between 8 and 10
+551,9,10,between 8 and 10
+552,9,11,between 8 and 10
+553,9,12,between 8 and 10
+554,9,13,between 8 and 10
+555,9,14,between 8 and 10
+556,9,15,between 8 and 10
+557,9,16,between 8 and 10
+558,9,17,between 8 and 10
+559,9,18,between 8 and 10
+560,9,19,between 8 and 10
+561,9,20,between 8 and 10
+562,9,21,between 8 and 10
+563,9,22,between 8 and 10
+564,9,23,between 8 and 10
+565,9,24,between 8 and 10
+566,9,25,between 8 and 10
+567,9,26,between 8 and 10
+568,9,27,between 8 and 10
+569,9,28,between 8 and 10
+570,9,29,between 8 and 10
+571,9,30,between 8 and 10
+572,9,31,between 8 and 10
+573,9,32,between 8 and 10
+574,9,33,between 8 and 10
+575,9,34,between 8 and 10
+576,9,35,between 8 and 10
+577,9,36,between 8 and 10
+578,9,37,between 8 and 10
+579,9,38,between 8 and 10
+580,9,39,between 8 and 10
+581,9,40,between 8 and 10
+582,9,41,between 8 and 10
+583,9,42,between 8 and 10
+584,9,43,between 8 and 10
+585,9,44,between 8 and 10
+586,9,45,between 8 and 10
+587,9,46,between 8 and 10
+588,9,47,between 8 and 10
+589,9,48,between 8 and 10
+590,9,49,between 8 and 10
+591,9,50,between 8 and 10
+592,9,51,between 8 and 10
+593,9,52,between 8 and 10
+594,9,53,between 8 and 10
+595,9,54,between 8 and 10
+596,9,55,between 8 and 10
+597,9,56,between 8 and 10
+598,9,57,between 8 and 10
+599,9,58,between 8 and 10
+600,9,59,between 8 and 10
+601,10,0,between 8 and 10
+602,10,1,between 8 and 10
+603,10,2,between 8 and 10
+604,10,3,between 8 and 10
+605,10,4,between 8 and 10
+606,10,5,between 8 and 10
+607,10,6,between 8 and 10
+608,10,7,between 8 and 10
+609,10,8,between 8 and 10
+610,10,9,between 8 and 10
+611,10,10,between 8 and 10
+612,10,11,between 8 and 10
+613,10,12,between 8 and 10
+614,10,13,between 8 and 10
+615,10,14,between 8 and 10
+616,10,15,between 8 and 10
+617,10,16,between 8 and 10
+618,10,17,between 8 and 10
+619,10,18,between 8 and 10
+620,10,19,between 8 and 10
+621,10,20,between 8 and 10
+622,10,21,between 8 and 10
+623,10,22,between 8 and 10
+624,10,23,between 8 and 10
+625,10,24,between 8 and 10
+626,10,25,between 8 and 10
+627,10,26,between 8 and 10
+628,10,27,between 8 and 10
+629,10,28,between 8 and 10
+630,10,29,between 8 and 10
+631,10,30,between 8 and 10
+632,10,31,between 8 and 10
+633,10,32,between 8 and 10
+634,10,33,between 8 and 10
+635,10,34,between 8 and 10
+636,10,35,between 8 and 10
+637,10,36,between 8 and 10
+638,10,37,between 8 and 10
+639,10,38,between 8 and 10
+640,10,39,between 8 and 10
+641,10,40,between 8 and 10
+642,10,41,between 8 and 10
+643,10,42,between 8 and 10
+644,10,43,between 8 and 10
+645,10,44,between 8 and 10
+646,10,45,between 8 and 10
+647,10,46,between 8 and 10
+648,10,47,between 8 and 10
+649,10,48,between 8 and 10
+650,10,49,between 8 and 10
+651,10,50,between 8 and 10
+652,10,51,between 8 and 10
+653,10,52,between 8 and 10
+654,10,53,between 8 and 10
+655,10,54,between 8 and 10
+656,10,55,between 8 and 10
+657,10,56,between 8 and 10
+658,10,57,between 8 and 10
+659,10,58,between 8 and 10
+660,10,59,between 8 and 10
+661,11,0,between 11 and 14
+662,11,1,between 11 and 14
+663,11,2,between 11 and 14
+664,11,3,between 11 and 14
+665,11,4,between 11 and 14
+666,11,5,between 11 and 14
+667,11,6,between 11 and 14
+668,11,7,between 11 and 14
+669,11,8,between 11 and 14
+670,11,9,between 11 and 14
+671,11,10,between 11 and 14
+672,11,11,between 11 and 14
+673,11,12,between 11 and 14
+674,11,13,between 11 and 14
+675,11,14,between 11 and 14
+676,11,15,between 11 and 14
+677,11,16,between 11 and 14
+678,11,17,between 11 and 14
+679,11,18,between 11 and 14
+680,11,19,between 11 and 14
+681,11,20,between 11 and 14
+682,11,21,between 11 and 14
+683,11,22,between 11 and 14
+684,11,23,between 11 and 14
+685,11,24,between 11 and 14
+686,11,25,between 11 and 14
+687,11,26,between 11 and 14
+688,11,27,between 11 and 14
+689,11,28,between 11 and 14
+690,11,29,between 11 and 14
+691,11,30,between 11 and 14
+692,11,31,between 11 and 14
+693,11,32,between 11 and 14
+694,11,33,between 11 and 14
+695,11,34,between 11 and 14
+696,11,35,between 11 and 14
+697,11,36,between 11 and 14
+698,11,37,between 11 and 14
+699,11,38,between 11 and 14
+700,11,39,between 11 and 14
+701,11,40,between 11 and 14
+702,11,41,between 11 and 14
+703,11,42,between 11 and 14
+704,11,43,between 11 and 14
+705,11,44,between 11 and 14
+706,11,45,between 11 and 14
+707,11,46,between 11 and 14
+708,11,47,between 11 and 14
+709,11,48,between 11 and 14
+710,11,49,between 11 and 14
+711,11,50,between 11 and 14
+712,11,51,between 11 and 14
+713,11,52,between 11 and 14
+714,11,53,between 11 and 14
+715,11,54,between 11 and 14
+716,11,55,between 11 and 14
+717,11,56,between 11 and 14
+718,11,57,between 11 and 14
+719,11,58,between 11 and 14
+720,11,59,between 11 and 14
+721,12,0,between 11 and 14
+722,12,1,between 11 and 14
+723,12,2,between 11 and 14
+724,12,3,between 11 and 14
+725,12,4,between 11 and 14
+726,12,5,between 11 and 14
+727,12,6,between 11 and 14
+728,12,7,between 11 and 14
+729,12,8,between 11 and 14
+730,12,9,between 11 and 14
+731,12,10,between 11 and 14
+732,12,11,between 11 and 14
+733,12,12,between 11 and 14
+734,12,13,between 11 and 14
+735,12,14,between 11 and 14
+736,12,15,between 11 and 14
+737,12,16,between 11 and 14
+738,12,17,between 11 and 14
+739,12,18,between 11 and 14
+740,12,19,between 11 and 14
+741,12,20,between 11 and 14
+742,12,21,between 11 and 14
+743,12,22,between 11 and 14
+744,12,23,between 11 and 14
+745,12,24,between 11 and 14
+746,12,25,between 11 and 14
+747,12,26,between 11 and 14
+748,12,27,between 11 and 14
+749,12,28,between 11 and 14
+750,12,29,between 11 and 14
+751,12,30,between 11 and 14
+752,12,31,between 11 and 14
+753,12,32,between 11 and 14
+754,12,33,between 11 and 14
+755,12,34,between 11 and 14
+756,12,35,between 11 and 14
+757,12,36,between 11 and 14
+758,12,37,between 11 and 14
+759,12,38,between 11 and 14
+760,12,39,between 11 and 14
+761,12,40,between 11 and 14
+762,12,41,between 11 and 14
+763,12,42,between 11 and 14
+764,12,43,between 11 and 14
+765,12,44,between 11 and 14
+766,12,45,between 11 and 14
+767,12,46,between 11 and 14
+768,12,47,between 11 and 14
+769,12,48,between 11 and 14
+770,12,49,between 11 and 14
+771,12,50,between 11 and 14
+772,12,51,between 11 and 14
+773,12,52,between 11 and 14
+774,12,53,between 11 and 14
+775,12,54,between 11 and 14
+776,12,55,between 11 and 14
+777,12,56,between 11 and 14
+778,12,57,between 11 and 14
+779,12,58,between 11 and 14
+780,12,59,between 11 and 14
+781,13,0,between 11 and 14
+782,13,1,between 11 and 14
+783,13,2,between 11 and 14
+784,13,3,between 11 and 14
+785,13,4,between 11 and 14
+786,13,5,between 11 and 14
+787,13,6,between 11 and 14
+788,13,7,between 11 and 14
+789,13,8,between 11 and 14
+790,13,9,between 11 and 14
+791,13,10,between 11 and 14
+792,13,11,between 11 and 14
+793,13,12,between 11 and 14
+794,13,13,between 11 and 14
+795,13,14,between 11 and 14
+796,13,15,between 11 and 14
+797,13,16,between 11 and 14
+798,13,17,between 11 and 14
+799,13,18,between 11 and 14
+800,13,19,between 11 and 14
+801,13,20,between 11 and 14
+802,13,21,between 11 and 14
+803,13,22,between 11 and 14
+804,13,23,between 11 and 14
+805,13,24,between 11 and 14
+806,13,25,between 11 and 14
+807,13,26,between 11 and 14
+808,13,27,between 11 and 14
+809,13,28,between 11 and 14
+810,13,29,between 11 and 14
+811,13,30,between 11 and 14
+812,13,31,between 11 and 14
+813,13,32,between 11 and 14
+814,13,33,between 11 and 14
+815,13,34,between 11 and 14
+816,13,35,between 11 and 14
+817,13,36,between 11 and 14
+818,13,37,between 11 and 14
+819,13,38,between 11 and 14
+820,13,39,between 11 and 14
+821,13,40,between 11 and 14
+822,13,41,between 11 and 14
+823,13,42,between 11 and 14
+824,13,43,between 11 and 14
+825,13,44,between 11 and 14
+826,13,45,between 11 and 14
+827,13,46,between 11 and 14
+828,13,47,between 11 and 14
+829,13,48,between 11 and 14
+830,13,49,between 11 and 14
+831,13,50,between 11 and 14
+832,13,51,between 11 and 14
+833,13,52,between 11 and 14
+834,13,53,between 11 and 14
+835,13,54,between 11 and 14
+836,13,55,between 11 and 14
+837,13,56,between 11 and 14
+838,13,57,between 11 and 14
+839,13,58,between 11 and 14
+840,13,59,between 11 and 14
+841,14,0,between 11 and 14
+842,14,1,between 11 and 14
+843,14,2,between 11 and 14
+844,14,3,between 11 and 14
+845,14,4,between 11 and 14
+846,14,5,between 11 and 14
+847,14,6,between 11 and 14
+848,14,7,between 11 and 14
+849,14,8,between 11 and 14
+850,14,9,between 11 and 14
+851,14,10,between 11 and 14
+852,14,11,between 11 and 14
+853,14,12,between 11 and 14
+854,14,13,between 11 and 14
+855,14,14,between 11 and 14
+856,14,15,between 11 and 14
+857,14,16,between 11 and 14
+858,14,17,between 11 and 14
+859,14,18,between 11 and 14
+860,14,19,between 11 and 14
+861,14,20,between 11 and 14
+862,14,21,between 11 and 14
+863,14,22,between 11 and 14
+864,14,23,between 11 and 14
+865,14,24,between 11 and 14
+866,14,25,between 11 and 14
+867,14,26,between 11 and 14
+868,14,27,between 11 and 14
+869,14,28,between 11 and 14
+870,14,29,between 11 and 14
+871,14,30,between 11 and 14
+872,14,31,between 11 and 14
+873,14,32,between 11 and 14
+874,14,33,between 11 and 14
+875,14,34,between 11 and 14
+876,14,35,between 11 and 14
+877,14,36,between 11 and 14
+878,14,37,between 11 and 14
+879,14,38,between 11 and 14
+880,14,39,between 11 and 14
+881,14,40,between 11 and 14
+882,14,41,between 11 and 14
+883,14,42,between 11 and 14
+884,14,43,between 11 and 14
+885,14,44,between 11 and 14
+886,14,45,between 11 and 14
+887,14,46,between 11 and 14
+888,14,47,between 11 and 14
+889,14,48,between 11 and 14
+890,14,49,between 11 and 14
+891,14,50,between 11 and 14
+892,14,51,between 11 and 14
+893,14,52,between 11 and 14
+894,14,53,between 11 and 14
+895,14,54,between 11 and 14
+896,14,55,between 11 and 14
+897,14,56,between 11 and 14
+898,14,57,between 11 and 14
+899,14,58,between 11 and 14
+900,14,59,between 11 and 14
+901,15,0,between 15 and 18
+902,15,1,between 15 and 18
+903,15,2,between 15 and 18
+904,15,3,between 15 and 18
+905,15,4,between 15 and 18
+906,15,5,between 15 and 18
+907,15,6,between 15 and 18
+908,15,7,between 15 and 18
+909,15,8,between 15 and 18
+910,15,9,between 15 and 18
+911,15,10,between 15 and 18
+912,15,11,between 15 and 18
+913,15,12,between 15 and 18
+914,15,13,between 15 and 18
+915,15,14,between 15 and 18
+916,15,15,between 15 and 18
+917,15,16,between 15 and 18
+918,15,17,between 15 and 18
+919,15,18,between 15 and 18
+920,15,19,between 15 and 18
+921,15,20,between 15 and 18
+922,15,21,between 15 and 18
+923,15,22,between 15 and 18
+924,15,23,between 15 and 18
+925,15,24,between 15 and 18
+926,15,25,between 15 and 18
+927,15,26,between 15 and 18
+928,15,27,between 15 and 18
+929,15,28,between 15 and 18
+930,15,29,between 15 and 18
+931,15,30,between 15 and 18
+932,15,31,between 15 and 18
+933,15,32,between 15 and 18
+934,15,33,between 15 and 18
+935,15,34,between 15 and 18
+936,15,35,between 15 and 18
+937,15,36,between 15 and 18
+938,15,37,between 15 and 18
+939,15,38,between 15 and 18
+940,15,39,between 15 and 18
+941,15,40,between 15 and 18
+942,15,41,between 15 and 18
+943,15,42,between 15 and 18
+944,15,43,between 15 and 18
+945,15,44,between 15 and 18
+946,15,45,between 15 and 18
+947,15,46,between 15 and 18
+948,15,47,between 15 and 18
+949,15,48,between 15 and 18
+950,15,49,between 15 and 18
+951,15,50,between 15 and 18
+952,15,51,between 15 and 18
+953,15,52,between 15 and 18
+954,15,53,between 15 and 18
+955,15,54,between 15 and 18
+956,15,55,between 15 and 18
+957,15,56,between 15 and 18
+958,15,57,between 15 and 18
+959,15,58,between 15 and 18
+960,15,59,between 15 and 18
+961,16,0,between 15 and 18
+962,16,1,between 15 and 18
+963,16,2,between 15 and 18
+964,16,3,between 15 and 18
+965,16,4,between 15 and 18
+966,16,5,between 15 and 18
+967,16,6,between 15 and 18
+968,16,7,between 15 and 18
+969,16,8,between 15 and 18
+970,16,9,between 15 and 18
+971,16,10,between 15 and 18
+972,16,11,between 15 and 18
+973,16,12,between 15 and 18
+974,16,13,between 15 and 18
+975,16,14,between 15 and 18
+976,16,15,between 15 and 18
+977,16,16,between 15 and 18
+978,16,17,between 15 and 18
+979,16,18,between 15 and 18
+980,16,19,between 15 and 18
+981,16,20,between 15 and 18
+982,16,21,between 15 and 18
+983,16,22,between 15 and 18
+984,16,23,between 15 and 18
+985,16,24,between 15 and 18
+986,16,25,between 15 and 18
+987,16,26,between 15 and 18
+988,16,27,between 15 and 18
+989,16,28,between 15 and 18
+990,16,29,between 15 and 18
+991,16,30,between 15 and 18
+992,16,31,between 15 and 18
+993,16,32,between 15 and 18
+994,16,33,between 15 and 18
+995,16,34,between 15 and 18
+996,16,35,between 15 and 18
+997,16,36,between 15 and 18
+998,16,37,between 15 and 18
+999,16,38,between 15 and 18
+1000,16,39,between 15 and 18
+1001,16,40,between 15 and 18
+1002,16,41,between 15 and 18
+1003,16,42,between 15 and 18
+1004,16,43,between 15 and 18
+1005,16,44,between 15 and 18
+1006,16,45,between 15 and 18
+1007,16,46,between 15 and 18
+1008,16,47,between 15 and 18
+1009,16,48,between 15 and 18
+1010,16,49,between 15 and 18
+1011,16,50,between 15 and 18
+1012,16,51,between 15 and 18
+1013,16,52,between 15 and 18
+1014,16,53,between 15 and 18
+1015,16,54,between 15 and 18
+1016,16,55,between 15 and 18
+1017,16,56,between 15 and 18
+1018,16,57,between 15 and 18
+1019,16,58,between 15 and 18
+1020,16,59,between 15 and 18
+1021,17,0,between 15 and 18
+1022,17,1,between 15 and 18
+1023,17,2,between 15 and 18
+1024,17,3,between 15 and 18
+1025,17,4,between 15 and 18
+1026,17,5,between 15 and 18
+1027,17,6,between 15 and 18
+1028,17,7,between 15 and 18
+1029,17,8,between 15 and 18
+1030,17,9,between 15 and 18
+1031,17,10,between 15 and 18
+1032,17,11,between 15 and 18
+1033,17,12,between 15 and 18
+1034,17,13,between 15 and 18
+1035,17,14,between 15 and 18
+1036,17,15,between 15 and 18
+1037,17,16,between 15 and 18
+1038,17,17,between 15 and 18
+1039,17,18,between 15 and 18
+1040,17,19,between 15 and 18
+1041,17,20,between 15 and 18
+1042,17,21,between 15 and 18
+1043,17,22,between 15 and 18
+1044,17,23,between 15 and 18
+1045,17,24,between 15 and 18
+1046,17,25,between 15 and 18
+1047,17,26,between 15 and 18
+1048,17,27,between 15 and 18
+1049,17,28,between 15 and 18
+1050,17,29,between 15 and 18
+1051,17,30,between 15 and 18
+1052,17,31,between 15 and 18
+1053,17,32,between 15 and 18
+1054,17,33,between 15 and 18
+1055,17,34,between 15 and 18
+1056,17,35,between 15 and 18
+1057,17,36,between 15 and 18
+1058,17,37,between 15 and 18
+1059,17,38,between 15 and 18
+1060,17,39,between 15 and 18
+1061,17,40,between 15 and 18
+1062,17,41,between 15 and 18
+1063,17,42,between 15 and 18
+1064,17,43,between 15 and 18
+1065,17,44,between 15 and 18
+1066,17,45,between 15 and 18
+1067,17,46,between 15 and 18
+1068,17,47,between 15 and 18
+1069,17,48,between 15 and 18
+1070,17,49,between 15 and 18
+1071,17,50,between 15 and 18
+1072,17,51,between 15 and 18
+1073,17,52,between 15 and 18
+1074,17,53,between 15 and 18
+1075,17,54,between 15 and 18
+1076,17,55,between 15 and 18
+1077,17,56,between 15 and 18
+1078,17,57,between 15 and 18
+1079,17,58,between 15 and 18
+1080,17,59,between 15 and 18
+1081,18,0,between 15 and 18
+1082,18,1,between 15 and 18
+1083,18,2,between 15 and 18
+1084,18,3,between 15 and 18
+1085,18,4,between 15 and 18
+1086,18,5,between 15 and 18
+1087,18,6,between 15 and 18
+1088,18,7,between 15 and 18
+1089,18,8,between 15 and 18
+1090,18,9,between 15 and 18
+1091,18,10,between 15 and 18
+1092,18,11,between 15 and 18
+1093,18,12,between 15 and 18
+1094,18,13,between 15 and 18
+1095,18,14,between 15 and 18
+1096,18,15,between 15 and 18
+1097,18,16,between 15 and 18
+1098,18,17,between 15 and 18
+1099,18,18,between 15 and 18
+1100,18,19,between 15 and 18
+1101,18,20,between 15 and 18
+1102,18,21,between 15 and 18
+1103,18,22,between 15 and 18
+1104,18,23,between 15 and 18
+1105,18,24,between 15 and 18
+1106,18,25,between 15 and 18
+1107,18,26,between 15 and 18
+1108,18,27,between 15 and 18
+1109,18,28,between 15 and 18
+1110,18,29,between 15 and 18
+1111,18,30,between 15 and 18
+1112,18,31,between 15 and 18
+1113,18,32,between 15 and 18
+1114,18,33,between 15 and 18
+1115,18,34,between 15 and 18
+1116,18,35,between 15 and 18
+1117,18,36,between 15 and 18
+1118,18,37,between 15 and 18
+1119,18,38,between 15 and 18
+1120,18,39,between 15 and 18
+1121,18,40,between 15 and 18
+1122,18,41,between 15 and 18
+1123,18,42,between 15 and 18
+1124,18,43,between 15 and 18
+1125,18,44,between 15 and 18
+1126,18,45,between 15 and 18
+1127,18,46,between 15 and 18
+1128,18,47,between 15 and 18
+1129,18,48,between 15 and 18
+1130,18,49,between 15 and 18
+1131,18,50,between 15 and 18
+1132,18,51,between 15 and 18
+1133,18,52,between 15 and 18
+1134,18,53,between 15 and 18
+1135,18,54,between 15 and 18
+1136,18,55,between 15 and 18
+1137,18,56,between 15 and 18
+1138,18,57,between 15 and 18
+1139,18,58,between 15 and 18
+1140,18,59,between 15 and 18
+1141,19,0,after 19
+1142,19,1,after 19
+1143,19,2,after 19
+1144,19,3,after 19
+1145,19,4,after 19
+1146,19,5,after 19
+1147,19,6,after 19
+1148,19,7,after 19
+1149,19,8,after 19
+1150,19,9,after 19
+1151,19,10,after 19
+1152,19,11,after 19
+1153,19,12,after 19
+1154,19,13,after 19
+1155,19,14,after 19
+1156,19,15,after 19
+1157,19,16,after 19
+1158,19,17,after 19
+1159,19,18,after 19
+1160,19,19,after 19
+1161,19,20,after 19
+1162,19,21,after 19
+1163,19,22,after 19
+1164,19,23,after 19
+1165,19,24,after 19
+1166,19,25,after 19
+1167,19,26,after 19
+1168,19,27,after 19
+1169,19,28,after 19
+1170,19,29,after 19
+1171,19,30,after 19
+1172,19,31,after 19
+1173,19,32,after 19
+1174,19,33,after 19
+1175,19,34,after 19
+1176,19,35,after 19
+1177,19,36,after 19
+1178,19,37,after 19
+1179,19,38,after 19
+1180,19,39,after 19
+1181,19,40,after 19
+1182,19,41,after 19
+1183,19,42,after 19
+1184,19,43,after 19
+1185,19,44,after 19
+1186,19,45,after 19
+1187,19,46,after 19
+1188,19,47,after 19
+1189,19,48,after 19
+1190,19,49,after 19
+1191,19,50,after 19
+1192,19,51,after 19
+1193,19,52,after 19
+1194,19,53,after 19
+1195,19,54,after 19
+1196,19,55,after 19
+1197,19,56,after 19
+1198,19,57,after 19
+1199,19,58,after 19
+1200,19,59,after 19
+1201,20,0,after 19
+1202,20,1,after 19
+1203,20,2,after 19
+1204,20,3,after 19
+1205,20,4,after 19
+1206,20,5,after 19
+1207,20,6,after 19
+1208,20,7,after 19
+1209,20,8,after 19
+1210,20,9,after 19
+1211,20,10,after 19
+1212,20,11,after 19
+1213,20,12,after 19
+1214,20,13,after 19
+1215,20,14,after 19
+1216,20,15,after 19
+1217,20,16,after 19
+1218,20,17,after 19
+1219,20,18,after 19
+1220,20,19,after 19
+1221,20,20,after 19
+1222,20,21,after 19
+1223,20,22,after 19
+1224,20,23,after 19
+1225,20,24,after 19
+1226,20,25,after 19
+1227,20,26,after 19
+1228,20,27,after 19
+1229,20,28,after 19
+1230,20,29,after 19
+1231,20,30,after 19
+1232,20,31,after 19
+1233,20,32,after 19
+1234,20,33,after 19
+1235,20,34,after 19
+1236,20,35,after 19
+1237,20,36,after 19
+1238,20,37,after 19
+1239,20,38,after 19
+1240,20,39,after 19
+1241,20,40,after 19
+1242,20,41,after 19
+1243,20,42,after 19
+1244,20,43,after 19
+1245,20,44,after 19
+1246,20,45,after 19
+1247,20,46,after 19
+1248,20,47,after 19
+1249,20,48,after 19
+1250,20,49,after 19
+1251,20,50,after 19
+1252,20,51,after 19
+1253,20,52,after 19
+1254,20,53,after 19
+1255,20,54,after 19
+1256,20,55,after 19
+1257,20,56,after 19
+1258,20,57,after 19
+1259,20,58,after 19
+1260,20,59,after 19
+1261,21,0,after 19
+1262,21,1,after 19
+1263,21,2,after 19
+1264,21,3,after 19
+1265,21,4,after 19
+1266,21,5,after 19
+1267,21,6,after 19
+1268,21,7,after 19
+1269,21,8,after 19
+1270,21,9,after 19
+1271,21,10,after 19
+1272,21,11,after 19
+1273,21,12,after 19
+1274,21,13,after 19
+1275,21,14,after 19
+1276,21,15,after 19
+1277,21,16,after 19
+1278,21,17,after 19
+1279,21,18,after 19
+1280,21,19,after 19
+1281,21,20,after 19
+1282,21,21,after 19
+1283,21,22,after 19
+1284,21,23,after 19
+1285,21,24,after 19
+1286,21,25,after 19
+1287,21,26,after 19
+1288,21,27,after 19
+1289,21,28,after 19
+1290,21,29,after 19
+1291,21,30,after 19
+1292,21,31,after 19
+1293,21,32,after 19
+1294,21,33,after 19
+1295,21,34,after 19
+1296,21,35,after 19
+1297,21,36,after 19
+1298,21,37,after 19
+1299,21,38,after 19
+1300,21,39,after 19
+1301,21,40,after 19
+1302,21,41,after 19
+1303,21,42,after 19
+1304,21,43,after 19
+1305,21,44,after 19
+1306,21,45,after 19
+1307,21,46,after 19
+1308,21,47,after 19
+1309,21,48,after 19
+1310,21,49,after 19
+1311,21,50,after 19
+1312,21,51,after 19
+1313,21,52,after 19
+1314,21,53,after 19
+1315,21,54,after 19
+1316,21,55,after 19
+1317,21,56,after 19
+1318,21,57,after 19
+1319,21,58,after 19
+1320,21,59,after 19
+1321,22,0,after 19
+1322,22,1,after 19
+1323,22,2,after 19
+1324,22,3,after 19
+1325,22,4,after 19
+1326,22,5,after 19
+1327,22,6,after 19
+1328,22,7,after 19
+1329,22,8,after 19
+1330,22,9,after 19
+1331,22,10,after 19
+1332,22,11,after 19
+1333,22,12,after 19
+1334,22,13,after 19
+1335,22,14,after 19
+1336,22,15,after 19
+1337,22,16,after 19
+1338,22,17,after 19
+1339,22,18,after 19
+1340,22,19,after 19
+1341,22,20,after 19
+1342,22,21,after 19
+1343,22,22,after 19
+1344,22,23,after 19
+1345,22,24,after 19
+1346,22,25,after 19
+1347,22,26,after 19
+1348,22,27,after 19
+1349,22,28,after 19
+1350,22,29,after 19
+1351,22,30,after 19
+1352,22,31,after 19
+1353,22,32,after 19
+1354,22,33,after 19
+1355,22,34,after 19
+1356,22,35,after 19
+1357,22,36,after 19
+1358,22,37,after 19
+1359,22,38,after 19
+1360,22,39,after 19
+1361,22,40,after 19
+1362,22,41,after 19
+1363,22,42,after 19
+1364,22,43,after 19
+1365,22,44,after 19
+1366,22,45,after 19
+1367,22,46,after 19
+1368,22,47,after 19
+1369,22,48,after 19
+1370,22,49,after 19
+1371,22,50,after 19
+1372,22,51,after 19
+1373,22,52,after 19
+1374,22,53,after 19
+1375,22,54,after 19
+1376,22,55,after 19
+1377,22,56,after 19
+1378,22,57,after 19
+1379,22,58,after 19
+1380,22,59,after 19
+1381,23,0,after 19
+1382,23,1,after 19
+1383,23,2,after 19
+1384,23,3,after 19
+1385,23,4,after 19
+1386,23,5,after 19
+1387,23,6,after 19
+1388,23,7,after 19
+1389,23,8,after 19
+1390,23,9,after 19
+1391,23,10,after 19
+1392,23,11,after 19
+1393,23,12,after 19
+1394,23,13,after 19
+1395,23,14,after 19
+1396,23,15,after 19
+1397,23,16,after 19
+1398,23,17,after 19
+1399,23,18,after 19
+1400,23,19,after 19
+1401,23,20,after 19
+1402,23,21,after 19
+1403,23,22,after 19
+1404,23,23,after 19
+1405,23,24,after 19
+1406,23,25,after 19
+1407,23,26,after 19
+1408,23,27,after 19
+1409,23,28,after 19
+1410,23,29,after 19
+1411,23,30,after 19
+1412,23,31,after 19
+1413,23,32,after 19
+1414,23,33,after 19
+1415,23,34,after 19
+1416,23,35,after 19
+1417,23,36,after 19
+1418,23,37,after 19
+1419,23,38,after 19
+1420,23,39,after 19
+1421,23,40,after 19
+1422,23,41,after 19
+1423,23,42,after 19
+1424,23,43,after 19
+1425,23,44,after 19
+1426,23,45,after 19
+1427,23,46,after 19
+1428,23,47,after 19
+1429,23,48,after 19
+1430,23,49,after 19
+1431,23,50,after 19
+1432,23,51,after 19
+1433,23,52,after 19
+1434,23,53,after 19
+1435,23,54,after 19
+1436,23,55,after 19
+1437,23,56,after 19
+1438,23,57,after 19
+1439,23,58,after 19
+1440,23,59,after 19
