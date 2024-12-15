@@ -1,0 +1,126 @@
+SELECT
+    c.Gender,
+    COUNT(a.AppointmentNo) AS TotalAppointments,
+    SUM(a.Cost) AS TotalRevenue,
+    AVG(a.DiscountAmount) AS AverageDiscount,
+    AVG(a.Cost) AS AverageCost,
+    SUM(a.Duration) AS TotalDuration
+FROM
+    Customer_part c
+JOIN
+    Appointment_orc a ON c.CustomerID = a.CustomerID
+GROUP BY
+    c.Gender
+ORDER BY
+    c.Gender;
+
+
+SELECT
+    w.Details.NameAndSurname AS WorkerName,
+    COUNT(a.AppointmentNo) AS AppointmentCount
+FROM
+    Appointment_orc a
+JOIN
+    Worker w ON a.WorkerID = w.WorkerID
+GROUP BY
+    w.Details.NameAndSurname
+ORDER BY
+    AppointmentCount DESC
+LIMIT 5;
+
+
+SELECT
+    d.isHoliday,
+    COUNT(a.AppointmentNo) AS AppointmentCount
+FROM
+    Appointment_orc a
+JOIN
+    Date_par d ON a.AppointmentDate = d.DateID
+GROUP BY
+    d.isHoliday;
+
+
+SELECT
+    d.DayOfWeek,
+    COUNT(a.AppointmentNo) AS AppointmentCount
+FROM
+    Appointment_orc a
+JOIN
+    Date_par d ON a.AppointmentDate = d.DateID
+GROUP BY
+    d.DayOfWeek;
+
+
+SELECT
+    c.CompanyName,
+    SUM(a.DiscountAmount) AS TotalDiscount
+FROM
+    Appointment_orc a
+JOIN
+    Company c ON a.CompanyID = c.CompanyID
+GROUP BY
+    c.CompanyName;
+
+
+SELECT
+    c.CompanyName,
+    s.ServiceCategory,
+    COUNT(a.AppointmentNo) AS AppointmentCount
+FROM
+    Appointment_orc a
+JOIN
+    ServiceType s ON a.ServiceID = s.ServiceID
+JOIN
+    Company c ON a.CompanyID = c.CompanyID
+GROUP BY
+    c.CompanyName,
+    s.ServiceCategory;
+
+
+SELECT
+    t.TimeOfDay,
+    SUM(a.Cost) AS TotalRevenue
+FROM
+    Appointment_orc a
+JOIN
+    Time_par t ON a.AppointmentTime = t.TimeID
+GROUP BY
+    t.TimeOfDay;
+
+
+SELECT
+    d.isHoliday,
+    SUM(a.DiscountAmount) AS TotalDiscountAmount,
+    COUNT(a.AppointmentNo) AS NumberOfAppointments,
+    AVG(a.DiscountAmount) AS AverageDiscount
+FROM
+    Appointment_orc a
+JOIN
+    Date_par d ON a.AppointmentDate = d.DateID
+GROUP BY
+    d.isHoliday;
+
+
+
+SELECT
+    w.Details.NameAndSurname AS WorkerName,
+    w.WorkInfo.RatingsOfWorkerCategory AS RatingCategory,
+    AVG(a.Cost) AS AvgAppointmentCost
+FROM
+    Appointment_orc a
+JOIN
+    Worker w ON a.WorkerID = w.WorkerID
+GROUP BY
+    w.Details.NameAndSurname,
+    w.WorkInfo.RatingsOfWorkerCategory;
+
+
+SELECT
+    t.TimeOfDay,
+    AVG(a.Duration) AS AvgDuration
+FROM
+    Appointment_orc a
+JOIN
+    Time_par t ON a.AppointmentTime = t.TimeID
+GROUP BY
+    t.TimeOfDay;

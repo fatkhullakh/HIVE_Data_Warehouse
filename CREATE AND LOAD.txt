@@ -1,0 +1,218 @@
+CREATE TABLE Appointment_orc (
+    AppointmentNo INT,
+    Cost INT,
+    Duration INT,
+    DiscountAmount DECIMAL(10, 2),
+    CustomerID INT,
+    WorkerID INT,
+    ServiceID INT,
+    AppointmentDate INT,
+    AppointmentTime INT,
+    JunkID INT
+)
+PARTITIONED BY (CompanyID INT)
+STORED AS ORC;
+
+
+CREATE TABLE Appointment_staging (
+    AppointmentNo INT,
+    Cost INT,
+    Duration INT,
+    DiscountAmount DECIMAL(10, 2),
+    CustomerID INT,
+    WorkerID INT,
+    ServiceID INT,
+    AppointmentDate INT,
+    AppointmentTime INT,
+    JunkID INT,
+    CompanyID INT
+)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '|'
+STORED AS TEXTFILE;
+
+LOAD DATA INPATH '/user/andb39/Project/Appointment.txt' INTO TABLE Appointment_staging;
+
+INSERT INTO TABLE Appointment_orc PARTITION (CompanyID)
+SELECT
+    AppointmentNo,
+    Cost,
+    Duration,
+    DiscountAmount,
+    CustomerID,
+    WorkerID,
+    ServiceID,
+    AppointmentDate,
+    AppointmentTime,
+    JunkID,
+    CompanyID
+FROM Appointment_staging;
+
+
+
+
+CREATE EXTERNAL TABLE Company (
+    CompanyID INT,
+    CompanyName STRING,
+    Details STRUCT<TypeOfCompany:STRING, RatingsOfCompanyCategory:STRING>
+)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '|'
+COLLECTION ITEMS TERMINATED BY ','
+STORED AS TEXTFILE
+LOCATION '/user/andb39/Project/Company';
+
+
+
+
+CREATE EXTERNAL TABLE Customer (
+    CustomerID INT,
+    NameAndSurname STRING,
+    Gender STRING,
+    PESEL STRING
+)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '|'
+STORED AS TEXTFILE
+LOCATION '/user/andb39/Project/Customer';
+
+
+CREATE TABLE Customer_part (
+    CustomerID INT,
+    NameAndSurname STRING,
+    PESEL STRING
+)
+PARTITIONED BY (Gender STRING)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '|'
+STORED AS TEXTFILE;
+
+
+ALTER TABLE Customer_part ADD PARTITION (Gender='Male');
+
+ALTER TABLE Customer_part ADD PARTITION (Gender='Female');
+
+
+INSERT INTO TABLE Customer_part PARTITION (Gender='Male')
+SELECT
+    CustomerID,
+    NameAndSurname,
+    PESEL
+FROM Customer
+WHERE Gender = 'Male';
+
+
+INSERT INTO TABLE Customer_part PARTITION (Gender='Female')
+SELECT
+    CustomerID,
+    NameAndSurname,
+    PESEL
+FROM Customer
+WHERE Gender = 'Female';
+
+SELECT * FROM Customer_part WHERE Gender = 'Male' LIMIT 10;
+SELECT * FROM Customer_part WHERE Gender = 'Female' LIMIT 10;
+
+
+
+CREATE TABLE Date_par (
+    DateID INT,
+    Date_Actual DATE,
+    Month STRING,
+    MonthNo INT,
+    DayOfWeek STRING,
+    DayOfWeekNo INT,
+    isHoliday BOOLEAN
+)
+PARTITIONED BY (Year INT)
+STORED AS PARQUET;
+
+CREATE TABLE Date_staging (
+    DateID INT,
+    Date_Actual DATE,
+    Month STRING,
+    MonthNo INT,
+    DayOfWeek STRING,
+    DayOfWeekNo INT,
+    isHoliday BOOLEAN,
+    Year INT
+)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '|'
+STORED AS TEXTFILE;
+
+LOAD DATA INPATH '/user/andb39/Project/Date.txt' INTO TABLE Date_staging;
+
+INSERT INTO TABLE Date_par PARTITION (Year)
+SELECT DateID, Date_Actual, Month, MonthNo, DayOfWeek, DayOfWeekNo, isHoliday, Year
+FROM Date_staging;
+
+
+
+
+CREATE TABLE Junk (
+    JunkID INT,
+    StatusOfAppointment STRING,
+    IsFree BOOLEAN,
+    IsPromoCodeUsed BOOLEAN
+)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '|'
+STORED AS TEXTFILE;
+
+LOAD DATA INPATH '/user/andb39/Project/Junk.txt' INTO TABLE Junk;
+
+
+CREATE EXTERNAL TABLE ServiceType (
+    ServiceID INT,
+    ServiceName STRING,
+    ServiceCategory STRING
+)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '|'
+STORED AS TEXTFILE
+LOCATION '/user/andb39/Project/Service';
+
+
+
+
+CREATE TABLE Time_par (
+    TimeID INT,
+    Hour INT,
+    Minutes INT
+)
+PARTITIONED BY (TimeOfDay STRING)
+STORED AS PARQUET;
+
+CREATE TABLE Time_staging (
+    TimeID INT,
+    Hour INT,
+    Minutes INT,
+    TimeOfDay STRING
+)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '|'
+STORED AS TEXTFILE;
+
+LOAD DATA INPATH '/user/andb39/Project/Time.txt' INTO TABLE Time_staging;
+
+INSERT INTO TABLE Time_par PARTITION (TimeOfDay)
+SELECT TimeID, Hour, Minutes, TimeOfDay
+FROM Time_staging;
+
+
+
+
+CREATE EXTERNAL TABLE Worker (
+    WorkerID INT,
+    Details STRUCT<NameAndSurname:STRING, Gender:STRING>,
+    PESEL STRING,
+    JobTitle STRING,
+    WorkInfo STRUCT<RatingsOfWorkerCategory:STRING, isCurrent:BOOLEAN>
+)
+CLUSTERED BY (WorkerID) INTO 8 BUCKETS
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY '|'
+COLLECTION ITEMS TERMINATED BY ','
+STORED AS TEXTFILE
+LOCATION '/user/andb39/Project/Worker';
