@@ -1,2 +1,8 @@
-# HIVE_Data_Warehouse
-A data warehouse project built on Apache Hive designed for managing appointment-related data with efficient storage, query performance, and data partitioning strategies.
+Hive Data Warehouse
+Description
+A simple data warehouse project on Apache Hive for managing appointment data. It uses various storage formats, partitioning, and complex data types for better query performance.
+
+Features
+Storage Formats: ORC, Parquet, Textfile
+Partitioning: Static & Dynamic
+Data Types: STRUCT, ARRAY
