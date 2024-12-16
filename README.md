@@ -1,5 +1,5 @@
 Hive Data Warehouse
-Description
+
 A simple data warehouse project on Apache Hive for managing appointment data. It uses various storage formats, partitioning, and complex data types for better query performance.
 
 Features
